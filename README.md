@@ -8,6 +8,8 @@
 
 ## Introduction
 
+
+
 ## Partie 1 : Historique et enjeux de la notion
 
 ### Chapitre 1 : Aux origines était la Disponibilité
@@ -38,6 +40,8 @@
 - **1.** Sérendipité : quand l'heureux hasard rencontre les algorithmes
 - **2.** Les algorithmes de Recommandation
   - **a.** La notion d'Algorithme de service public : "prenez les commandes", l'algorithme de Recommandation de Radio France
+ 
+
 
 ## Partie 2 : Nouveaux catalogues, nouvelles interfaces, nouveaux usages
 
@@ -58,6 +62,9 @@
 - **2.** Vers un nouveau *crowdsourcing* reposant sur l'ouverture des données
 - **3.** L'intelligence artificielle comme porte d'accès au savoir, encore faut-il trouver la clé
 
+
+
+
 ## Partie 3 : Le code c'est la loi, régulations et limites à la découvrabilité
 
 ### Chapitre 9 : Le web : prison ou fenêtre ouverte sur le monde ?
@@ -75,7 +82,7 @@
 - **2.** L'accessibilité numérique
 - **3.** Et la planète dans tout ça ?
 
-# Conclusion
+## Conclusion
 
 ## Annexes
 
