@@ -1,0 +1,113 @@
+\begin{theindex}
+
+  \item Accessibilité, \hyperpage{102, 103}
+  \item Algorithme de service public, \hyperpage{37, 38}
+
+  \indexspace
+
+  \item Big data, \hyperpage{5, 6}
+  \item Big data\index{Big data} patrimonial, 
+		\hyperindexformat{\see{Big data\index{Big data}}}{5, 6}
+  \item Bulle de filtre, \hyperpage{7}, \hyperpage{38}, 
+		\hyperpage{86--89}
+
+  \indexspace
+
+  \item Catalogue, \hyperpage{25}, \hyperpage{36}, \hyperpage{38}, 
+		\hyperpage{44}, \hyperpage{46, 47}, \hyperpage{49}, 
+		\hyperpage{54}, \hyperpage{88, 89}, \hyperpage{93}, 
+		\hyperpage{95}
+  \item Clé de lecture, \hyperpage{56, 57}, \hyperpage{59}, 
+		\hyperpage{66}
+  \item Code is law, \hyperpage{77}, \hyperpage{79}
+  \item Courte tête, \hyperpage{83}
+  \item Crowdsourcing, \hyperpage{69, 70}
+
+  \indexspace
+
+  \item Data driven, \hyperpage{49}
+  \item Disponibilité, \hyperpage{9}, \hyperpage{22}, \hyperpage{34}, 
+		\hyperpage{92}, \hyperpage{96}
+  \item Données massives, \hyperpage{4}, \hyperpage{32}
+  \item Droit d’auteur, \hyperpage{95--97}
+
+  \indexspace
+
+  \item FAIR, \hyperpage{48}
+  \item Fatigue muséale, \hyperpage{5}, \hyperpage{27}, 
+		\hyperpage{53, 54}, \hyperpage{60}
+
+  \indexspace
+
+  \item Hyperchoix, \hyperpage{81}, \hyperpage{83}
+
+  \indexspace
+
+  \item IIIF, \hyperpage{48}
+  \item Intelligence artificielle, 
+		\hyperindexformat{\see{IA\index{IA}}}{17}, 
+		\hyperindexformat{\see{IA\index{IA}}}{19}, 
+		\hyperpage{61}, \hyperpage{71--73}, 
+		\hyperpage{98--101}, \hyperpage{104}
+    \subitem RAG, \hyperpage{71--73}, \hyperpage{100}
+  \item Interface, \hyperpage{43, 44}, \hyperpage{53}, 
+		\hyperpage{59--63}, \hyperpage{65--67}, \hyperpage{71}, 
+		\hyperpage{100}
+  \item Interopérabilité, \hyperpage{24}, \hyperpage{48}
+
+  \indexspace
+
+  \item Knowledge graph, \hyperpage{26}, \hyperpage{59, 60}, 
+		\hyperpage{66}
+
+  \indexspace
+
+  \item Littératie numérique, \hyperpage{74}, \hyperpage{91}
+  \item Longue traine, \hyperpage{83--86}
+
+  \indexspace
+
+  \item Modèles de données
+    \subitem CIDOC-CRM, \hyperpage{66}
+    \subitem FRBR, \hyperpage{23}, \hyperpage{46}
+    \subitem IFLA-LRM, \hyperpage{23}, \hyperpage{46}, \hyperpage{66}
+
+  \indexspace
+
+  \item Open data, \hyperpage{68}
+
+  \indexspace
+
+  \item Politique culturelle, \hyperpage{6}
+  \item Portail, \hyperpage{5}, \hyperpage{25}, \hyperpage{47, 48}, 
+		\hyperpage{65}, \hyperpage{92}
+
+  \indexspace
+
+  \item Recommandation, \hyperpage{28}, \hyperpage{34}, 
+		\hyperpage{36--38}, \hyperpage{69}, \hyperpage{71}, 
+		\hyperpage{83}, \hyperpage{86}, \hyperpage{89}, 
+		\hyperpage{91--93}, \hyperpage{100}
+  \item Repérabilité, \hyperpage{9}, \hyperpage{21}, \hyperpage{28}, 
+		\hyperpage{46}, \hyperpage{48}, \hyperpage{66}, 
+		\hyperpage{73}, \hyperpage{85}, \hyperpage{91, 92}, 
+		\hyperpage{102}
+  \item Référencement, \hyperpage{21, 22}, \hyperpage{24--28}, 
+		\hyperpage{48}, \hyperpage{92}, \hyperpage{102, 103}
+  \item Régulation, \hyperpage{77}, \hyperpage{79}, \hyperpage{94}
+
+  \indexspace
+
+  \item Sérendipité, \hyperpage{31--34}, \hyperpage{59}, 
+		\hyperpage{61}
+
+  \indexspace
+
+  \item Trouvabilité, \hyperpage{54}, \hyperpage{65}, \hyperpage{67}
+
+  \indexspace
+
+  \item Économie de l’attention, \hyperpage{6}, \hyperpage{33}, 
+		\hyperpage{84}, \hyperpage{87}
+
+\end{theindex}

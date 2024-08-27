@@ -1,0 +1,326 @@
+%Document vide aux normes de l'École nationale des Chartes
+%Dernières modifications E. Rouquette (12/2023)
+
+%%%%%%%%%%%%%%%%%%%%%% PRÉAMBULE
+
+
+%%%%%%%%%%%%%% partie obligatoire du préambule
+\documentclass[a4paper,12pt,twoside]{book}
+\usepackage{fontspec}
+\usepackage{xunicode}
+\usepackage[french]{babel}%on peut préciser d'autres langues.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PACKAGES UTILISÉS
+
+\usepackage{csquotes} % les guillemets français
+\usepackage{lettrine} %faire une lettrine (pas obligatoire)
+
+\usepackage[style=enc,sorting=nyt,maxbibnames=10]{biblatex}%charger le style de l'EnC (téléchargeable ici https://ctan.org/pkg/biblatex-enc)
+\addbibresource{./bibliographie/bibliographieglobale.bib} %le fichier bibliograhique. Exemple de chemin à partir du dossier où se trouve le document maître:Exemple ./dossierA/fichier.bib
+\defbibheading{}{\subsection*{}} %Si l'on veut changer le titre de la/les bibliographie(s)
+
+
+%%%Faire un ou plusieurs index
+
+\usepackage{imakeidx} %pour faire un ou plusieurs index
+\makeindex %commande pour générer l'index
+
+
+%RAJOUTEZ ICI VOS PACKAGES
+
+
+\usepackage{chngcntr} %pour gérer la numérotation des figures en continu
+\usepackage{tocloft} % pour gérer la table des matières de façon plus fine
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CONFIGURATION DE MISE EN PAGE
+
+
+%%%%%% Les compteurs (sections, subsections, etc)
+\renewcommand{\thesection}{\Roman{section}.}%On ne fait apparaître que le numéro de la section
+\renewcommand{\thesubsection}{\arabic{subsection}.}%subsection en chiffres arabes
+\renewcommand{\thesubsubsection}{\alph{subsubsection}.}%subsubsection en lettres minuscules
+%Si l'on veut faire apparaître les subsubsection dans le table des matières (à commenter sinon)
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}  % La subsubsection (profondeur=3 dans la table des matières) apparait numérotée dans la TdM
+
+\renewcommand{\thefigure}{\arabic{figure}} %Numérotation des figures en un seul chiffre arabe
+
+%%%%%  Configurer le document selon les normes de l'école
+
+\usepackage[margin=2.5cm]{geometry} %marges
+\usepackage{setspace} % espacement qui permet ensuite de définir un interligne
+\onehalfspacing % interligne de 1.5
+\setlength\parindent{1cm} % indentation des paragraphes à 1 cm
+\setlength{\parskip}{16pt} % espace de 16 points entre les paragraphes
+
+%%%%% Mise en forme des headers (haut de page)
+
+\usepackage{fancyhdr} %package utilisé pour modifier les headers
+\pagestyle{fancy} %utiliser ses propres choix de mise en page et non ceux par défaut du package
+
+\setlength\headheight{16pt}%la hauteur des headers
+\renewcommand{\sectionmark}[1]{\markright{\small\textit{\thesection~\  #1}}}%Faire apparaître dans les headers les sections en  petit et en italiques
+\renewcommand{\sectionmark}[1]{}%Commenter la lign précédetne et mettre celle-ci pour ne pas avoir le titre des sections dans le header
+\renewcommand{\chaptermark}[1]{\markboth{\small\chaptername~\thechapter~--\ \textit{#1}}{}}%idem pour les chapitres
+%\renewcommand{\chaptermark}[1]{}%Commenter la ligne précédente et mettre celle-ci pour ne pas avoir le titre des chapitres  dans le header
+
+
+
+%indiquer des règles d'hyphénation pour des mots précis si besoin
+%\begin{hyphenrules}{french}
+%	\hyphenation{}
+%\end{hyphenrules}
+
+
+%%%%%%% Package hyperref
+% A mettre après les autres appels de packages car redéfinit certaines commandes).
+
+\usepackage[colorlinks=false, hidelinks = true, breaklinks=true, pdfusetitle, pdfsubject ={Mémoire TNAH}, pdfkeywords={les mots-clés}]{hyperref} %
+\usepackage[numbered]{bookmark}%va avec hyperref; marche mieux pour les signets. l'option numbered: les signets dans le pdf sont numérotés
+
+% Compléter pdfsubjet et pdfkeywords
+%Explication des options de hyperref (modifiables)
+% hyperindex=false
+% colorlinks=false: pour que le cadre des liens n'apparaisse pas à l'impression
+% breaklinks permet d'avoir des liens allant sur pusieurs lignes
+%pdfusetitle: utiliser \author et \title pour produire le nom et le titre du pdf
+% Hidelinks : permet de faire en sorte que les cadres rouges des liens n'apparaissent pas sur le PDF 
+
+%avec overleaf, utiliser :
+%\usepackage[xetex]{hyperref}
+%\hypersetup{
+	%	pdfauthor = {Prénom Nom},
+	%	pdftitle = {titre},
+	%	pdfsubject = {sujet},
+	%	pdfkeywords = {premier mot-clé} {deuxième mot-clé} {troisième mot-clé} {etc}
+	%}
+
+
+
+%%%%%%%%%%%%%%%%%%%% Package glossaries
+
+%Exception: il faut le charger APRÈS hyperref
+%\usepackage[toc=true]{glossaries}
+%\makeglossaries
+%avec TexStudio: F9 pour compiler le glossaire (s'il y a aussi un index)
+
+%mettre les entrées du glossaire ici ou les mettre dans un fichier à part que l'on appelle ici par \loadglsentries{nom_du_fichier.tex}
+
+%Structure d'une entrée de glossaire
+%\newglossaryentry{}{%
+	%	name={},%
+	%	description={}
+	%}
+
+
+
+%%%%%%%%%%%%%%%%%% DÉFINITION DES COMMANDES ET ENVIRONNMENTS
+
+
+
+% Commande qui permet de gérer les cas où une citation est issue d'un autre article que celui cité (celles avec un \textit{in})
+\newcommand{\citein}[3][]{\footnote{\cite{#2} \textit{in} \cite{#3}#1}}
+
+
+\counterwithout{figure}{chapter}% pour compter les figures de façon continue 
+
+
+\setlength{\cftbeforepartskip}{5em}  % Augmenter l'espace entre les parties dans la table des matières
+
+
+
+%%%%%%%%%%%%%% INFORMATIONS POUR LA PAGE DE TITRE
+\author{Maxime GRIVEAU - M2 TNAH}
+\title{La découvrabilité des contenus culturel à l'heure du \textit{big data patrimonial}}
+
+%%%%%%%%%%%%%%%%%%%%%% DOCUMENT
+\begin{document}
+	\begin{titlepage}
+		\begin{center}
+			
+			\bigskip
+			
+			\begin{large}				
+				ÉCOLE NATIONALE DES CHARTES\\
+				UNIVERSITÉ PARIS, SCIENCES \& LETTRES
+			\end{large}
+			\begin{center}\rule{2cm}{0.02cm}\end{center}
+			
+			\bigskip
+			\bigskip
+			\bigskip
+			\begin{Large}
+				\textbf{Maxime GRIVEAU}\\
+			\end{Large}
+			%selon le cas
+			\begin{normalsize} 
+				\textit{diplômé de licence histoire, histoire de l'art et archéologie}
+			\end{normalsize}
+			
+			\bigskip
+			\bigskip
+			\bigskip
+			
+			\begin{Huge}
+				\textbf{La découvrabilité des contenus culturel à l'heure du \textit{big data patrimonial}}\\
+			\end{Huge}
+			\bigskip
+			\bigskip
+			\begin{LARGE}
+				\textbf{Cas d'usages à la Radio-télévision Suisse (RTS)}\\
+			\end{LARGE}
+			
+			\bigskip
+			\bigskip
+			\bigskip
+			\begin{large}
+			\end{large}
+			\vfill
+			
+			\begin{large}
+				Mémoire 
+				pour le diplôme de master \\
+				\enquote{Technologies numériques appliquées à l'histoire} \\
+				\bigskip
+				2024
+			\end{large}
+			
+		\end{center}
+	\end{titlepage}
+	
+	\thispagestyle{empty}	
+	\cleardoublepage
+	
+	\frontmatter
+	
+	\chapter{Résumé}
+	\textbf{Résumé} : Ce mémoire, réalisé lors d'un stage à la Radio-Télévision Suisse (RTS) dans le cadre du Master Technologies numériques appliquées à l'histoire (TNAH) de l'École des chartes - PSL, aborde la question de la découvrabilité dans le secteur patrimonial, définie comme la \enquote{capacité pour un objet à émerger parmi un vaste ensemble à un utilisateur qui n'en aurait pas fait la demande}. Il explore la disponibilité des contenus, leur repérabilité et leur recommandation algorithmique tout en historicisant la notion. Il traite ensuite de l'évolution des interfaces, notamment des catalogues et des visualisations de données, et examine enfin les limites de la notion : écosystème du web, règles institutionnelles, et angles morts (accessibilité numérique, explicabilité, et numérique responsable).
+	
+	\textbf{Abstract}: This thesis, conducted during an internship at Radio-Télévision Suisse (RTS) as part of the Master's program in Digital Technologies Applied to History (TNAH) at the École des chartes - PSL (Paris), focuses on the concept of discoverability in the heritage sector, defined as the \enquote{ability of an object to emerge from a vast array to a user who has not explicitly requested it}. The study explores content availability, findability, and algorithmic recommendation, providing a historical perspective on the notion. It then addresses the evolution of interfaces, particularly catalogs and data visualizations, and finally examines the limits of the concept: the web ecosystem, institutional rules, and blind spots (digital accessibility, explainability, and responsible digital practices).
+	
+	\textbf{Mots-clés:} Découvrabilité ; repérabilité ; algorithmes de recommandation ; intelligence artificielle (RAG) ; interfaces ; crowdsourcing ; impact environnemental du numérique ; bulle de filtre ; longue traine.  
+	
+	\textbf{Informations bibliographiques:} Maxime Griveau. La découvrabilité des contenus culturel à l'heure du \textit{big data patrimonial} : cas d'usages à la RTS, mémoire de master \enquote{Technologies numériques appliquées à l'histoire}, dir. Maxime Challon, École nationale des chartes, 2024.
+	
+	\textit{Ce document est écrit en utilisant l'orthographe réformée, on ne s'étonnera donc pas, par exemple, de l'absence de l'accent circonflexe sur des mots tels que maitre.
+		Voir à ce propos : \url{https://www.academie-francaise.fr/sites/academie-francaise.fr/files/rectifications.pdf}}
+	\newpage{\pagestyle{empty}\cleardoublepage}
+	
+	\chapter{Remerciements}
+	
+	\lettrine{M}es remerciements vont tout d’abord à Janique Sonderegger, documentaliste spécialisée data au service Données \& Archives, qui, pendant toute la durée de mon stage, a su orienter mes réflexions, me fournir des clés de lecture essentielles et les outils adéquats, sans jamais limiter les réflexions et essais que je souhaitais mener.
+	
+	Je tiens également à remercier Denise Barcella, experte en patrimoine au service Données \& Archives et ancienne enseignante à l’Université de Lausanne, pour ses précieuses indications concernant l’histoire du fonds, ses migrations informatiques diverses, ainsi que ses lacunes et biais. Nos discussions m’ont par ailleurs été très utiles pour appréhender, ne serait-ce qu’un peu, la complexité des opérations de numérisation et l’histoire des supports conservés à la RTS.
+	
+	Ce mémoire doit aussi beaucoup à Maxime Challon, ingénieur data à l’Institut national de l’audiovisuel. Je le remercie pour ses précieux conseils quant à la rédaction du mémoire, mais aussi pour les discussions très fructueuses que nous avons eues. Il a toujours su me guider vers la bonne voie sans jamais m’imposer une direction précise, et a fourni des conseils techniques particulièrement pertinents. Pour les mêmes raisons, je souhaite remercier Emmanuelle Bermès pour ses orientations bibliographiques précieuses et ses conseils lors de la réflexion autour du plan.
+	
+	Je remercie également tous les collègues avec qui j’ai eu le plaisir d’échanger pour construire l’historique des fonds et de leurs métadonnées, ainsi que sur des sujets extrêmement variés qui m’ont permis de grandir, tant professionnellement que personnellement. Je ne peux tous et toutes les citer ici, mais je tiens à exprimer ma gratitude en particulier à : Laure Meuret, Marie Françoise Guex, Alain Freudiguer, Gabriel Leon, Pietro et Marielle Renzonnico, Didier Bufflier, Martine Cameroni, Sophie Meyer, Soazig Vaucher, Vincent Seriot, Laurent Guimard, Natacha Farina Groux, Louise-Anne Thévoz, Joëlle Albrecht-Glaisen, Gabrielle Frech, Anne-Isabelle Gomez, Floriane Morattel, Rita Crota Ben Henda et, bien sûr, Guy Druey.
+	
+	Avant de clore ces remerciements, je tiens à remercier Louis Falissard, Maître de conférences en apprentissage profond à l’Université Paris VIII, et Xavier Huet, Administrateur fonctionnel des archives de la métropole de Lille, pour les échanges que nous avons eus, respectivement sur le clustering des contenus et sur la création de la treemap interactive des contenus.
+	
+	Enfin, je remercie Paul Wang, qui a su me guider, me poser les bonnes questions, et parfois — souvent — me faire douter, toujours pour le meilleur. Je le remercie également pour sa relecture, ainsi que les amis qui ont accepté de prendre ce temps : Jeanne Dugas, Lucile Chatellier-Lang, Alexandra Puillandre, Laurine Roy, Manon Delisle et Maël Jean.
+	
+	\newpage{\pagestyle{empty}\cleardoublepage}
+	
+	%%%%%%%%%%%% \bibliographie ici (normes de l'EnC)
+	\part*{Bibliographie}
+	\printbibliography[keyword=partie1, title={Historique et enjeux}]
+	\printbibliography[keyword=partie2, title={Nouvelles interfaces}]
+	\printbibliography[keyword=partie3, title={Limites de la notion}]
+	
+	
+	\printbibliography[keyword=dictionnaires, title={Encyclopédies et statistiques}]
+	
+	
+	\chapter{Introduction}	
+	 \begin{quote}
+	 	\enquote{L’univers (que d’autres appellent la Bibliothèque), se compose d’un nombre indéfini […] de galeries hexagonales, avec au centre de vastes puits d’aérations bordés par des balustrades très basses. […] vingt longues étagères, à raison de cinq par côté, couvrent tous les murs moins deux […]. Chacun des murs de chaque hexagone porte cinq étagères ; chaque étagère comprend trente-deux livres, tous de même format ; chaque livre a quatre cent dix pages ; chaque page, quarante lignes, et chaque ligne, environ quatre-vingts caractères noirs \footcite[p. 1]{borges1963}.}
+	 \end{quote} 
+	
+	Dans sa nouvelle, Jorge Luis Borges décrit son « rêve de bibliothèque » : une bibliothèque presque infinie contenant toutes les combinaisons possibles de 23 des lettres de l’alphabet combinées avec l’espace et le point. Rêve car elle contient tous les livres parus, disparus, à paraître ainsi que toutes leurs interprétations, les réfutations des interprétations, dans toutes les langues, mêmes inconnues mais aussi l’histoire de votre vie, passée, présente, ou future \footcite{marx}.
+	
+	Mais comme le décrit William Marx dans son cours du collège de France consacré au « rêve de la bibliothèque parfaite », ce rêve tourne vite au cauchemar, celui de la masse, cette bibliothèque n’est pas ordonnée, pas classée, « les nombres s’y multiplient au-delà du raisonnable » \footcite{marx}. Combien de pages contenant d’incompréhensibles suites de caractères vous faudra-t-il consulter pour trouver le récit de votre vie ? Combien de livres devrez-vous ouvrir dans cette bibliothèque finie mais contenant 1.956 × $10^{1834097}$ livres pour y retrouver les œuvres disparues d’Eschyle ? Combien de kilomètres devrez-vous parcourir dans cet espace plus grand que l’univers connu pour y trouver ne serait-ce qu’un livre qui aurait du sens ? La bibliothèque de Babel exprime ainsi le débordement du langage, punition divine infligée aux humains dans le mythe éponyme \footcite{zotero-393}, elle se transforme en cauchemar non pas du fait de sa volumétrie mais par l’absence de classement. Par l’impossibilité de retrouver quoi que ce soit dans cette bibliothèque gouvernée par les nombres : nombre indéfini de galeries hexagonales contenant chacune 20 étagères contenant chacune 32 livres contenant chacun 410 pages contenant chacune 40 lignes contenant chacune 80 caractères.
+	
+	Publiée en 1941, cette nouvelle n’a jamais cessée d’être actuelle, une quantité d’information immense gouvernée par les nombres, écrasants et impossibles à imaginer : on fait assez rapidement le parallèle avec le web, ses Zettaoctets de données \footnote{Un zettaoctet correspond à un million de téraoctets (To) ou un milliard de gigaoctets (Go)}, immense lac dans lequel il est facile de se perdre et où le problème majeur que posait la bibliothèque de Borges, celui de la place prise par ces milliards de milliards de livres, n’existe (presque) plus. Ainsi a émergé en 2016 la notion de Découvrabilité \footnote{Nous verrons que si le terme francophone est né en 2016, les questions posées par la découvrabilité ne sont pas neuves} : « capacité qu’à un objet à être repéré parmi un vaste ensemble d’autres contenus, en particulier par une personne qui n’en faisait pas précisément la recherche. » \footcite{zotero-263} qui peut se résumer en trois mots : disponibilité d’abord, repérabilité ensuite, et recommandation enfin. Les questions posées par la notion, celles de se repérer dans l’immensité documentaire, ne sont pas neuves, Borges les posait déjà en 1941 ; ce sont les réponses qui le sont : tout en posant le problème de la masse, le web – et plus largement les technologies de l’information et de la communication – semblent aussi venir proposer la solution en mettant à notre disposition un arsenal de possibilités de classement que sont les index, moteurs de recherche et autres algorithmes de recommandation.
+	
+	Cette problématique de la masse se pose aussi de façon exacerbée dans les institutions patrimoniales qui ont (on y reviendra en détails) depuis plusieurs années numérisé, parfois massivement, leurs fonds générant elles aussi une masse qu’il devient difficile d’appréhender. Tel est le cas de la Radio Télévision Suisse (RTS), institution créée en 2011 suite à la fusion de la Télévision Suisse Romande (TSR) et de la Radio Suisse Romande (RSR), réunies en une seule entité d’entreprise (RTS) membre de la Société suisse de Radiodiffusion (SSR) qui en compte trois autres, correspondant aux langues nationales Suisses : la SRF (Schweizer Radio und Fernsehen) pour l’allemand, la RSI (Radiotelevisione svizzera) pour l’italien et la RTR (Radiotelevisiun Svizra Rumantscha) pour le romanche. En une dizaine d’années, nous y reviendrons, la RTS a numérisé la totalité des 680 000 heures d’archives radiophoniques et des 220 000 heures d’archives télévisuelles qu’elle conservait. Une telle masse documentaire pose là aussi la question de la découvrabilité : comment faire en sorte que les utilisateurs, documentalistes, chargés de la valorisation d’un fonds aussi immense s’y retrouvent ?
+	
+	Si l’objet du stage effectué à la RTS (pour une durée de quatre mois entre avril et juillet 2024) était au départ de réfléchir à la visualisation des données, un état de l’art réalisé sur le sujet ainsi que des entretiens menés avec une dizaine de personnes utilisatrices du fonds (documentalistes et producteurs de télévision) ont permis de faire émerger un fort besoin d’améliorer la découvrabilité de ce dernier. Les différents chemins parcourus en vue de remplir cet objectif ont donné lieu à l’écriture d’une preuve de concept (POC) sur le domaine (annexée au présent mémoire) mais aussi à une réflexion plus large sur la notion de découvrabilité. Ainsi, au long de ce mémoire nous poserons la question suivante : « Dans un secteur patrimonial où la numérisation a pris une place considérable : quelle importance revêt la notion de découvrabilité et quelles sont ses limites ? » À laquelle nous répondrons en prenant des exemples tirés de notre expérience à la RTS mais aussi d’ailleurs.
+	
+	Nous commencerons par plonger dans les enjeux autour de la notion de découvrabilité que sont la disponibilité, la repérabilité et la recommandation. Ce sera aussi l’occasion de tenter d’historiciser la découvrabilité : de quoi est-elle le reflet et à quelles questions semble-elle répondre ? Afin d’aborder la repérabilité, et tout au long de ce mémoire, nous nous appuierons sur des éléments vus pendant notre stage, ainsi, nous ferons un état des fonds conservés par l’institution ainsi que de leurs métadonnées. Nous évoquerons ensuite la recommandation en passant par l’importance, très patrimoniale, de la notion de sérendipité. Notre deuxième partie tentera d’aller plus loin en explorant la question des interfaces favorisant la découvrabilité, ces dernières nous semblent en effet capitales dans le cas patrimonial. Ce sera l’occasion de parcourir les transformations des catalogues, l’importance de la visualisation de l’information et ce que nous intitulons les « nouvelles interfaces » et les nouvelles pratiques qui en découlent. Nous terminerons notre mémoire par poser la question des limites et des problématiques, pour cela nous commencerons par proposer un état du web en tant qu’écosystème favorisant ou non la découvrabilité. Nous explorerons ensuite les questions institutionnelles autour de la formation des agents et des réglementations pour terminer ce mémoire par une réflexion sur les angles morts de la notion de découvrabilité que sont l’accessibilité numérique, les enjeux écologiques et ceux d’explicabilité algorithmique.
+	\newpage{\pagestyle{empty}\cleardoublepage}
+	
+	%%%%%%%%%%%%%%%%%Le corps du mémoire
+	\mainmatter
+	%Trier par dossiers si besoin (front, main,annexes,), se crérer un docuemnt .tex par structure (section ou chapter selon la taille et la pertinence) Exemple de chemin à partir du dossier où se trouve le document maître: ./dossierA/fichier.tex
+	
+	
+	
+
+	
+	\input{./section1/partie1.tex} % Import de la partie 1
+	
+
+
+	\input{./section2/partie2.tex}% Import de la partie 2
+	
+
+	
+	\input{./section3/partie3.tex}% Import de la partie 3
+	
+	
+	
+	\chapter*{Conclusion}
+	\addcontentsline{toc}{chapter}{Conclusion}
+	
+	Le présent mémoire a tâché de prendre du recul et de réfléchir aux enjeux autour de la découvrabilité des fonds patrimoniaux conservés à la Radio-télévision Suisse (RTS). Si l'objet initial aurait pu être celui de la visualisation de l'information, nous avons souhaité aller plus loin et poser la question de la découvrabilité en commençant par historiciser la notion, puis en revenant sur les enjeux qu'elle sous-tend. La disponibilité, c'est-à-dire la numérisation dans le cas du patrimoine, a été fulgurante – car pressée par le temps – dans le cas du patrimoine audiovisuel, mais non moins massive, ce qui pose la question de la repérabilité dans ces millions d'heures numérisées que nous avons divisées en deux enjeux : le référencement technique et son corollaire, les stratégies de valorisation. Nous avons ensuite orienté notre réflexion vers la recommandation algorithmique en questionnant la notion de sérendipité et sa survivance avec l'informatisation pour, enfin, tenter de noter les pratiques possibles pour les institutions patrimoniales en la matière.
+	
+	Comme le champ d'application de ce mémoire était le secteur patrimonial, la réflexion s'est ensuite portée sur les moyens d'accès au savoir essentiels que sont les interfaces, ces dernières ayant par ailleurs été l'objet principal de notre stage. Les catalogues, principaux médiateurs de l'information dans le secteur patrimonial, ont donc été largement évoqués pour ensuite observer les pratiques en matière de visualisation de l'information, leur intérêt et leurs limites. Cette réflexion s'est achevée sur la question des « nouvelles interfaces » et des changements des dernières années en la matière.
+	
+	Notre réflexion s'est terminée sur la question des limites à la découvrabilité, à savoir son écosystème de diffusion : le web, et les problèmes qu'il pose en la matière, que nous avons tenté de relativiser tout en montrant qu'ils n'étaient ni irréversibles ni impossibles à combattre, car « le code, c'est la loi », et que c'était notamment le rôle des institutions de le faire en formant leurs agents dans ce domaine, mais aussi par le biais de modifications des régulations actuelles. Nous avons souhaité clore ce mémoire en abordant les angles morts de la notion, pourtant essentiels à nos yeux : l'explicabilité du code, qui prend une importance centrale avec le développement rapide des technologies d'intelligence artificielle ; l'accessibilité des sites, qui est souvent vue comme une contrainte alors qu'il s'agit d'une formidable opportunité ; et enfin, la question du numérique responsable, un enjeu trop souvent ignoré. Car la plus incroyable des IA, capable de trouver en une fraction de seconde le document qu'un utilisateur n'a pas encore demandé, sans aucun biais, n'est pas une utopie si lointaine. Mais aussi incroyable soit-elle, il faudra qu'elle tienne compte des limites planétaires.
+	
+	Tous ces éléments nous ont permis de montrer que la question de la découvrabilité devait être mieux prise en compte par les institutions patrimoniales afin d'être visibles sur le web, tout en gardant à l'esprit qu'adopter une « politique du clic » ne serait pas constructif. Cela permettrait à chacun d'accéder bien plus aisément à de l'information fiable et de qualité sur Internet tout en favorisant les personnes désireuses de mener à bien des recherches. Il est toutefois essentiel d'être conscient des limites et des angles morts de la notion, et donc de former plus largement les agents et citoyens au numérique, notamment à ses biais.
+	
+	Concluons en revenant à Borges, dont l'œuvre a servi de point de départ à notre réflexion :
+	
+	\begin{quote}
+		« Tout : l’histoire minutieuse de l’avenir, les autobiographies des archanges, le catalogue fidèle de la Bibliothèque, des milliers et des milliers de catalogues mensongers, la démonstration de la fausseté de ces catalogues, la démonstration de la fausseté du catalogue véritable. »\footcite[p. 3]{borges1963}
+	\end{quote}
+	
+	Il avait saisi la quintessence de la découvrabilité : l'identification parmi une masse, bien sûr, mais aussi la question des régimes de vérité, qui se multiplient de nos jours. L'enjeu de la découvrabilité, au-delà du patrimoine il est vrai, est de \textbf{faire émerger} un régime de vérité commun, vérifiable, explicable. Il nous semble, et c'est une forme d'hommage, que les médias publics ont un rôle à jouer dans ce domaine, car tout comme les institutions patrimoniales, ils n'ont pas le défaut d'être biaisés par essence, car ils ne sont pas contraints par des logiques marchandes. Le code, c'est la loi, alors faisons en sorte qu'il nous permette de faire société.
+	
+	\newpage{\pagestyle{empty}\cleardoublepage}
+	
+	\renewcommand\indexname{Index thématique (grandes notions)} % Index renommé 
+	
+	
+	
+	
+	
+	%%%%%%%%%%%%%%%%%%
+	
+	\appendix %Des appendices: tables figures, etc
+	
+	\chapter[Supports conservés]{}
+	
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=1\textwidth]{images/supports_TVR_RTS.png}
+		\label{fig:image27}
+	\end{figure}
+	
+	
+	\newpage{\pagestyle{empty}\cleardoublepage}
+	
+	%%%%%%%%%%%%%%%%%%
+	
+	\backmatter % glossaire, index, table des figures, table des matières.. (la bibliographie a déjà été appelée)
+	
+	\printindex
+
+	\listoffigures
+	\newpage % ajout d'une page pour séparer la liste des figures de la TOC
+	\tableofcontents
+\end{document}
