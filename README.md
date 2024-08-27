@@ -2,11 +2,11 @@
 
 # Table des matières :
 
-# Résumé
+## Résumé
 
-# Remerciements
+## Remerciements
 
-# Introduction
+## Introduction
 
 ## Partie 1 : Historique et enjeux de la notion
 
