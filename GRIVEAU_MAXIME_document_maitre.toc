@@ -7,7 +7,7 @@
 \contentsline {subsection}{\numberline {1.}La nouvelle bibliothèque de Babel : vers un Big data patrimonial}{3}{subsection.1.0.1}%
 \contentsline {subsection}{\numberline {2.}Quand la \enquote {Fatigue muséale} rencontre \enquote {l'économie de l'attention}}{5}{subsection.1.0.2}%
 \contentsline {subsection}{\numberline {3.}La naissance de la découvrabilité}{7}{subsection.1.0.3}%
-\contentsline {chapter}{\numberline {2}Un fonds massif aux métadonnées complexe : état des fonds conservés par la Radio-Télévision Suisse (RTS)}{11}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Un fonds massif aux métadonnées complexes : état des fonds conservés par la Radio-Télévision Suisse (RTS)}{11}{chapter.2}%
 \contentsline {subsection}{\numberline {1.}Un \enquote {dépot légal} audiovisuel en Suisse ?}{11}{subsection.2.0.1}%
 \contentsline {subsection}{\numberline {2.}Le fonds radio et ses métadonnées}{12}{subsection.2.0.2}%
 \contentsline {subsubsection}{\numberline {a.}L'origine de la Radiodiffusion en Suisse romande}{12}{subsubsection.2.0.2.1}%
@@ -18,11 +18,11 @@
 \contentsline {subsubsection}{\numberline {a.}Histoire du fonds et de ses lacunes}{15}{subsubsection.2.0.3.1}%
 \contentsline {subsubsection}{\numberline {b.}La numérisation du fonds télévisuel}{17}{subsubsection.2.0.3.2}%
 \contentsline {subsubsection}{\numberline {c.}Métadonnées du fonds télévisuel}{18}{subsubsection.2.0.3.3}%
-\contentsline {chapter}{\numberline {3}Se repérer dans un vaste ensemble : la répérabilité}{21}{chapter.3}%
-\contentsline {subsection}{\numberline {1.}Naviguer dans l'océan du web : l'importance du Référencement}{21}{subsection.3.0.1}%
+\contentsline {chapter}{\numberline {3}Se repérer dans un vaste ensemble : la repérabilité}{21}{chapter.3}%
+\contentsline {subsection}{\numberline {1.}Naviguer dans l'océan du web : l'importance du référencement}{21}{subsection.3.0.1}%
 \contentsline {subsubsection}{\numberline {a.}Data.bnf.fr : sortir les données du web profond}{23}{subsubsection.3.0.1.1}%
 \contentsline {subsection}{\numberline {2.}Parler aux humains : l'exemple des archives de la RTS}{27}{subsection.3.0.2}%
-\contentsline {subsubsection}{\numberline {a.}La \enquote {bibliothèque de l'honnête homme} comme stratégie de valorisation }{27}{subsubsection.3.0.2.1}%
+\contentsline {subsubsection}{\numberline {a.}La \enquote {Bibliothèque de l'Honnête Homme} comme stratégie de valorisation }{27}{subsubsection.3.0.2.1}%
 \contentsline {subsubsection}{\numberline {b.}L'importance du SMO (social media optimisation)}{28}{subsubsection.3.0.2.2}%
 \contentsline {chapter}{\numberline {4}Émerger dans le lac d'une collection : la Recommandation}{31}{chapter.4}%
 \contentsline {subsection}{\numberline {1.}Sérendipité : quand l'heureux hasard rencontre les algorithmes}{31}{subsection.4.0.1}%
@@ -35,9 +35,9 @@
 \contentsline {subsection}{\numberline {2.}Les portails et le moissonnage des données}{46}{subsection.6.0.2}%
 \contentsline {subsection}{\numberline {3.}Des catalogues aux politiques \textit {data driven}}{49}{subsection.6.0.3}%
 \contentsline {chapter}{\numberline {7}La visualisation de données en tant que nouvelle interface au service de la découvrabilité}{53}{chapter.7}%
-\contentsline {subsection}{\numberline {1.}Voir globallement : l'importance d'avoir une vue d'ensemble des collections}{53}{subsection.7.0.1}%
+\contentsline {subsection}{\numberline {1.}Voir globalement : l'importance d'avoir une vue d'ensemble des collections}{53}{subsection.7.0.1}%
 \contentsline {subsection}{\numberline {2.}Voir sous un autre angle : donner des clés de lecture différentes des collections}{57}{subsection.7.0.2}%
-\contentsline {subsection}{\numberline {3.}Voir pour aller plus loin}{60}{subsection.7.0.3}%
+\contentsline {subsection}{\numberline {3.}Voir pour aller plus loin}{61}{subsection.7.0.3}%
 \contentsline {chapter}{\numberline {8}Nouvelles interfaces : nouveaux usages}{65}{chapter.8}%
 \contentsline {subsection}{\numberline {1.}À chacun son interface : l'exemple d'InTaVia}{65}{subsection.8.0.1}%
 \contentsline {subsection}{\numberline {2.}Vers un nouveau \textit {crowdsourcing} reponsant sur l'ouverture des données}{68}{subsection.8.0.2}%
