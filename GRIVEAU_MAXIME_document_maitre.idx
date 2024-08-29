@@ -1,14 +1,12 @@
 \indexentry{Données massives|hyperpage}{4}
 \indexentry{Big data|hyperpage}{5}
-\indexentry{Big data\index{Big data} patrimonial|hyperindexformat{\see{Big data\index{Big data}}}}{5}
 \indexentry{Portail|hyperpage}{5}
 \indexentry{Fatigue muséale|hyperpage}{5}
 \indexentry{Fatigue muséale|hyperpage}{5}
-\indexentry{Fatigue muséale|hyperpage}{5}
+\indexentry{Fatigue muséale|hyperpage}{6}
 \indexentry{Économie de l’attention|hyperpage}{6}
 \indexentry{Politique culturelle|hyperpage}{6}
 \indexentry{Big data|hyperpage}{6}
-\indexentry{Big data\index{Big data} patrimonial|hyperindexformat{\see{Big data\index{Big data}}}}{6}
 \indexentry{Bulle de filtre|hyperpage}{7}
 \indexentry{Disponibilité|hyperpage}{9}
 \indexentry{Repérabilité|hyperpage}{9}
@@ -24,13 +22,12 @@
 \indexentry{Modèles de données!FRBR|hyperpage}{23}
 \indexentry{Interopérabilité|hyperpage}{24}
 \indexentry{Référencement|hyperpage}{24}
-\indexentry{Référencement|hyperpage}{24}
 \indexentry{Référencement|hyperpage}{25}
 \indexentry{Catalogue|hyperpage}{25}
 \indexentry{Portail|hyperpage}{25}
 \indexentry{Catalogue|hyperpage}{25}
 \indexentry{Référencement|hyperpage}{25}
-\indexentry{Portail|hyperpage}{25}
+\indexentry{Portail|hyperpage}{26}
 \indexentry{Knowledge graph|hyperpage}{26}
 \indexentry{Référencement|hyperpage}{26}
 \indexentry{Référencement|hyperpage}{26}
@@ -61,9 +58,9 @@
 \indexentry{Sérendipité|hyperpage}{33}
 \indexentry{Sérendipité|hyperpage}{33}
 \indexentry{Sérendipité|hyperpage}{33}
-\indexentry{Sérendipité|hyperpage}{34}
-\indexentry{Sérendipité|hyperpage}{34}
-\indexentry{Recommandation|hyperpage}{34}
+\indexentry{Sérendipité|hyperpage}{33}
+\indexentry{Sérendipité|hyperpage}{33}
+\indexentry{Recommandation|hyperpage}{33}
 \indexentry{Sérendipité|hyperpage}{34}
 \indexentry{Sérendipité|hyperpage}{34}
 \indexentry{Disponibilité|hyperpage}{34}
@@ -71,13 +68,7 @@
 \indexentry{Sérendipité|hyperpage}{34}
 \indexentry{Recommandation|hyperpage}{34}
 \indexentry{Recommandation|hyperpage}{36}
-\indexentry{Recommandation|hyperpage}{36}
-\indexentry{Recommandation|hyperpage}{36}
-\indexentry{Recommandation|hyperpage}{36}
-\indexentry{Recommandation|hyperpage}{36}
-\indexentry{Recommandation|hyperpage}{36}
-\indexentry{Recommandation|hyperpage}{36}
-\indexentry{Catalogue|hyperpage}{36}
+\indexentry{Catalogue|hyperpage}{37}
 \indexentry{Recommandation|hyperpage}{37}
 \indexentry{Algorithme de service public|hyperpage}{37}
 \indexentry{Recommandation|hyperpage}{37}
@@ -131,15 +122,15 @@
 \indexentry{Clé de lecture|hyperpage}{57}
 \indexentry{Interface|hyperpage}{58}
 \indexentry{Clé de lecture|hyperpage}{58}
-\indexentry{Interface|hyperpage}{58}
-\indexentry{Interface|hyperpage}{58}
+\indexentry{Interface|hyperpage}{59}
+\indexentry{Interface|hyperpage}{59}
 \indexentry{Clé de lecture|hyperpage}{59}
 \indexentry{Interface|hyperpage}{59}
 \indexentry{Clé de lecture|hyperpage}{59}
-\indexentry{Clé de lecture|hyperpage}{60}
-\indexentry{Knowledge graph|hyperpage}{60}
-\indexentry{Sérendipité|hyperpage}{60}
-\indexentry{Interface|hyperpage}{60}
+\indexentry{Clé de lecture|hyperpage}{59}
+\indexentry{Knowledge graph|hyperpage}{59}
+\indexentry{Sérendipité|hyperpage}{59}
+\indexentry{Interface|hyperpage}{59}
 \indexentry{Fatigue muséale|hyperpage}{60}
 \indexentry{Knowledge graph|hyperpage}{60}
 \indexentry{Intelligence artificielle|hyperpage}{61}
@@ -159,10 +150,8 @@
 \indexentry{Interface|hyperpage}{66}
 \indexentry{Clé de lecture|hyperpage}{66}
 \indexentry{Knowledge graph|hyperpage}{66}
-\indexentry{Interface|hyperpage}{66}
 \indexentry{Modèles de données!CIDOC-CRM|hyperpage}{66}
 \indexentry{Modèles de données!IFLA-LRM|hyperpage}{66}
-\indexentry{Trouvabilité|hyperpage}{67}
 \indexentry{Interface|hyperpage}{67}
 \indexentry{Trouvabilité|hyperpage}{67}
 \indexentry{Interface|hyperpage}{67}
@@ -193,7 +182,6 @@
 \indexentry{Intelligence artificielle|hyperpage}{73}
 \indexentry{Intelligence artificielle!RAG|hyperpage}{73}
 \indexentry{Littératie numérique|hyperpage}{74}
-\indexentry{Code is law|hyperpage}{77}
 \indexentry{Régulation|hyperpage}{77}
 \indexentry{Régulation|hyperpage}{77}
 \indexentry{Régulation|hyperpage}{79}

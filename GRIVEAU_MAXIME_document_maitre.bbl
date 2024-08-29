@@ -2703,6 +2703,38 @@
       \endverb
       \keyw{partie3}
     \endentry
+    \entry{google2012}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={{Google}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Knowledge Graph is a huge collection of the people, places and things in the world and how they're connected to one another. With this Search technology, Google can get you the best possible answers and help jump start your discovery. Get an under the hood look at the next frontier, from the team at Google behind the technology. Learn more at https://www.google.com/search/about/ Dive into the world of Google. See how we’re pushing the boundaries of generative AI, developing cutting-edge technology \& using our platform to help communities globally. Subscribe to stay up to date with our mission: https://www.youtube.com/@Google/?sub\_{}... Subscribe to our Channel: ~~~/~google~~ Tweet with us on X: ~~/~google~~ Follow us on Instagram: ~~/~google~~ Join us on Facebook: ~~/~google}
+      \field{langid}{english}
+      \field{title}{Introducing the {{Knowledge Graph}}}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=mmQl6VGvX-c
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=mmQl6VGvX-c
+      \endverb
+      \keyw{partie1}
+    \endentry
     \entry{noauthor_google_nodate}{online}{}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}

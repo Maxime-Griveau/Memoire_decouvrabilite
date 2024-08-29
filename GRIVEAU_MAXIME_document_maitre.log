@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.11)  27 AUG 2024 17:11
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.11)  29 AUG 2024 11:56
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1496,7 +1496,11 @@ File: images/image4.png Graphic file (type bmp)
 <images/image4.png>
 File: images/image5.png Graphic file (type bmp)
 <images/image5.png>
- [24]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -1507,11 +1511,12 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
+[25]
 File: images/image6.png Graphic file (type bmp)
 <images/image6.png>
 File: images/image7.png Graphic file (type bmp)
 <images/image7.png>
-[25]
+
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -1523,52 +1528,52 @@ ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 6859) in paragraph at lines 237--237
+Underfull \hbox (badness 6859) in paragraph at lines 238--238
 [][][]\TU/lmr/m/n/10 .[][]Josée Plamondon, Bien documenter pour favoriser la dé
 couverte en ligne : tra-
  []
 
 
-Underfull \hbox (badness 5771) in paragraph at lines 237--237
+Underfull \hbox (badness 5771) in paragraph at lines 238--238
 \TU/lmr/m/n/10 vailler avec les métadonnées, rapp. tech., Canada, Fondation Jea
 n-Pierre Perreault, 2019,
  []
 
 
-Underfull \hbox (badness 5359) in paragraph at lines 237--237
+Underfull \hbox (badness 5359) in paragraph at lines 238--238
 \TU/lmr/m/n/10 url : []$[][][][][] [] [] [] [][][][][][][][][] [] [][][][] [] [
 ][] [] [][] [] [][][][][][][][][][] [] [][][][][][][] [] [][][][][] [] [][][][]
 [][][]$[], p. 14.cité dans :
  []
 
 
-Underfull \hbox (badness 4832) in paragraph at lines 237--237
+Underfull \hbox (badness 4832) in paragraph at lines 238--238
 \TU/lmr/m/it/10 Rapport - Mission franco-québécoise sur la découvrabilité en li
 gne des contenus culturels
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 237--237
+Underfull \hbox (badness 2744) in paragraph at lines 238--238
 \TU/lmr/m/it/10 francophones\TU/lmr/m/n/10 , Ministères de la Culture de la Fra
 nce et du Québec, France, Québec, 2020,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--237
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
 \TU/lmr/m/n/10 p. 60, []$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][]
 [] [] [][] [] [][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (86.25589pt too wide) in paragraph at lines 237--237
+Overfull \hbox (86.25589pt too wide) in paragraph at lines 238--238
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3098) has occurred while \output is active []
 
  [26]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -1610,7 +1615,7 @@ ex-text;!
 ]
 Chapitre 4.
 
-Overfull \hbox (5.55579pt too wide) in paragraph at lines 269--269
+Overfull \hbox (5.55579pt too wide) in paragraph at lines 270--270
 []\TU/lmr/bx/n/14.4 Sérendipité[] : quand l’heureux hasard rencontre les algori
 thmes 
  []
@@ -1670,7 +1675,7 @@ ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
-LaTeX Warning: Citation '14' on page 32 undefined on input line 273.
+LaTeX Warning: Citation '14' on page 32 undefined on input line 274.
 
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
@@ -1699,18 +1704,20 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 File: images/image9.png Graphic file (type bmp)
 <images/image9.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 1648) in paragraph at lines 286--286
+Underfull \hbox (badness 1648) in paragraph at lines 289--289
 [][][]\TU/lmr/m/n/10 .[][][][]\TU/lmr/m/it/10 Get More Eyes on Your Content Usi
 ng StumbleUpon\TU/lmr/m/n/10 , déc. 2012, \TU/lmr/m/sc/10 url \TU/lmr/m/n/10 : 
 []$[][][][][] [] [] []
  []
 
-[33]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -1729,6 +1736,10 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman10-regular]:mapping=t
@@ -1763,7 +1774,7 @@ ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
-Underfull \vbox (badness 3657) has occurred while \output is active []
+Underfull \vbox (badness 3668) has occurred while \output is active []
 
  [36]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -1797,11 +1808,7 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
-
-Underfull \vbox (badness 3668) has occurred while \output is active []
-
- [38])
-(./section2/partie2.tex [39] [40
+[38]) (./section2/partie2.tex [39] [40
 
 ] [41] [42]
 Chapitre 5.
@@ -1908,7 +1915,7 @@ ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
-Underfull \vbox (badness 1297) has occurred while \output is active []
+Underfull \vbox (badness 1342) has occurred while \output is active []
 
  [53]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -1960,10 +1967,6 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
 Package fancyhdr Warning: \headheight is too small (16.0pt): 
 (fancyhdr)                Make it at least 26.56978pt, for example:
 (fancyhdr)                \setlength{\headheight}{26.56978pt}.
@@ -1980,10 +1983,6 @@ Missing character: There is no   (U+2009) in font [lmroman10-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman10-regular]:mapping=t
 ex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (16.0pt): 
 (fancyhdr)                Make it at least 26.56978pt, for example:
@@ -2005,8 +2004,12 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
 
-Underfull \vbox (badness 2735) has occurred while \output is active []
+Underfull \vbox (badness 1242) has occurred while \output is active []
 
 
 
@@ -2018,30 +2021,9 @@ Package fancyhdr Warning: \headheight is too small (16.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.56978pt}.
 
 [57]
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
 File: images/image14.png Graphic file (type bmp)
 <images/image14.png>
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: images/image15.png Graphic file (type bmp)
-<images/image15.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
 
 Package fancyhdr Warning: \headheight is too small (16.0pt): 
 (fancyhdr)                Make it at least 26.56978pt, for example:
@@ -2051,9 +2033,19 @@ Package fancyhdr Warning: \headheight is too small (16.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.56978pt}.
 
 [58]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+File: images/image15.png Graphic file (type bmp)
+<images/image15.png>
 
-
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
 
 Package fancyhdr Warning: \headheight is too small (16.0pt): 
 (fancyhdr)                Make it at least 26.56978pt, for example:
@@ -2095,6 +2087,14 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
 
 Package fancyhdr Warning: \headheight is too small (16.0pt): 
 (fancyhdr)                Make it at least 26.56978pt, for example:
@@ -2104,16 +2104,9 @@ Package fancyhdr Warning: \headheight is too small (16.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.56978pt}.
 
 [61]
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
 File: images/image16.png Graphic file (type bmp)
 <images/image16.png>
+
 
 Package fancyhdr Warning: \headheight is too small (16.0pt): 
 (fancyhdr)                Make it at least 26.56978pt, for example:
@@ -2196,12 +2189,12 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
-
-Underfull \vbox (badness 1248) has occurred while \output is active []
-
- [66]
 File: images/image18.png Graphic file (type bmp)
 <images/image18.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[66]
 File: images/image19.png Graphic file (type bmp)
 <images/image19.png>
 File: images/image20.png Graphic file (type bmp)
@@ -2217,10 +2210,16 @@ ex-text;!
 File: images/image22.png Graphic file (type bmp)
 <images/image22.png>
 
-Underfull \vbox (badness 2302) has occurred while \output is active []
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [69]
-[70]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -2254,22 +2253,20 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
-File: images/image24.jpg Graphic file (type bmp)
-<images/image24.jpg>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-Missing character: There is no   (U+2009) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
 [77
 
 ]
+File: images/image24.jpg Graphic file (type bmp)
+<images/image24.jpg>
+
+Missing character: There is no   (U+2009) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -2364,7 +2361,7 @@ ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 [85]
-Underfull \vbox (badness 1052) has occurred while \output is active []
+Underfull \vbox (badness 1072) has occurred while \output is active []
 
  [86]
 Underfull \hbox (badness 1902) in paragraph at lines 73--73
@@ -2373,10 +2370,7 @@ ho - Fondation Descartes\TU/lmr/m/n/10 , \TU/lmr/m/sc/10 url \TU/lmr/m/n/10 : [
 ]$[][][][][] [] [] [] [][][] []
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [87]
+[87]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
@@ -2413,7 +2407,7 @@ ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 [96]
-Underfull \vbox (badness 1596) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [97]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -2488,8 +2482,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-\indexentry{Big data|hyperpage}{111}
-\indexentry{Big data|hyperpage}{111}
 \indexentry{IA|hyperpage}{111}
 \indexentry{IA|hyperpage}{111}
 ]
@@ -2520,16 +2512,20 @@ L3 programming layer <2023-11-01>
 
 LaTeX Warning: There were multiply-defined labels.
 
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'GRIVEAU_MAXIME_document_maitre.run.xm
 l'.
 \openout1 = `GRIVEAU_MAXIME_document_maitre.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27455 strings out of 474929
- 541470 string characters out of 5761542
+ 27463 strings out of 474929
+ 541690 string characters out of 5761542
  1952161 words of memory out of 5000000
- 49122 multiletter control sequences out of 15000+600000
+ 49130 multiletter control sequences out of 15000+600000
  562326 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  79i,13n,93p,3861b,5767s stack positions out of 10000i,1000n,20000p,200000b,200000s

@@ -1,20 +1,20 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'GRIVEAU_MAXIME_document_maitre.blg'
-[88] biber:340> INFO - === dim. août 25, 2024, 19:47:39
-[105] Biber.pm:419> INFO - Reading 'GRIVEAU_MAXIME_document_maitre.bcf'
-[226] Biber.pm:979> INFO - Found 167 citekeys in bib section 0
-[241] Biber.pm:4419> INFO - Processing section 0
-[252] Biber.pm:4610> INFO - Looking for bibtex file './bibliographie/bibliographieglobale.bib' for section 0
-[270] bibtex.pm:1713> INFO - LaTeX decoding ...
-[551] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/bibliographieglobale.bib'
-[1318] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1318] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1318] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
-[1319] Biber.pm:4245> INFO - No sort tailoring available for locale 'fr-FR'
-[1488] bbl.pm:660> INFO - Writing 'GRIVEAU_MAXIME_document_maitre.bbl' with encoding 'UTF-8'
-[1564] bbl.pm:763> INFO - Output to GRIVEAU_MAXIME_document_maitre.bbl
-[1564] Biber.pm:131> WARN - legacy year field 's.d.' in entry 's.d.' is not an integer - this will probably not sort properly.
-[1564] Biber.pm:131> WARN - I didn't find a database entry for '14' (section 0)
-[1564] Biber.pm:131> WARN - I didn't find a database entry for 'Chaire Pluralisme culturel et éthique du numérique (PcEn)' (section 0)
-[1564] Biber.pm:131> WARN - I didn't find a database entry for 'mai 2022' (section 0)
-[1564] Biber.pm:133> INFO - WARNINGS: 4
+[88] biber:340> INFO - === jeu. août 29, 2024, 11:24:58
+[104] Biber.pm:419> INFO - Reading 'GRIVEAU_MAXIME_document_maitre.bcf'
+[220] Biber.pm:979> INFO - Found 168 citekeys in bib section 0
+[234] Biber.pm:4419> INFO - Processing section 0
+[244] Biber.pm:4610> INFO - Looking for bibtex file './bibliographie/bibliographieglobale.bib' for section 0
+[261] bibtex.pm:1713> INFO - LaTeX decoding ...
+[537] bibtex.pm:1519> INFO - Found BibTeX data source './bibliographie/bibliographieglobale.bib'
+[1277] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1277] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1277] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[1277] Biber.pm:4245> INFO - No sort tailoring available for locale 'fr-FR'
+[1444] bbl.pm:660> INFO - Writing 'GRIVEAU_MAXIME_document_maitre.bbl' with encoding 'UTF-8'
+[1520] bbl.pm:763> INFO - Output to GRIVEAU_MAXIME_document_maitre.bbl
+[1520] Biber.pm:131> WARN - legacy year field 's.d.' in entry 's.d.' is not an integer - this will probably not sort properly.
+[1520] Biber.pm:131> WARN - I didn't find a database entry for '14' (section 0)
+[1520] Biber.pm:131> WARN - I didn't find a database entry for 'Chaire Pluralisme culturel et éthique du numérique (PcEn)' (section 0)
+[1520] Biber.pm:131> WARN - I didn't find a database entry for 'mai 2022' (section 0)
+[1520] Biber.pm:133> INFO - WARNINGS: 4
