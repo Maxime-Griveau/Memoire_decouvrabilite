@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.11)  29 AUG 2024 11:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.11)  30 AUG 2024 16:00
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -953,23 +953,23 @@ Package hyperref Info: Link coloring OFF on input line 139.
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 208.
+(Font)              <12> on input line 199.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 208.
+(Font)              <8> on input line 199.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 208.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+(Font)              <6> on input line 199.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 199.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 199.
  [1
 
 
-]
-[2]
+] [2]
 Package lettrine.sty Info: Targeted height = 24.16246pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.16241pt (M);
-(lettrine.sty)             reported on input line 213.
+(lettrine.sty)             reported on input line 215.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -981,21 +981,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ] [6]
-Overfull \hbox (2.2124pt too wide) in paragraph at lines 229--229
+Overfull \hbox (2.2124pt too wide) in paragraph at lines 231--231
 [][]\TU/lmr/m/it/12 À propos de data.bnf.fr\TU/lmr/m/n/12 , s.d. \TU/lmr/m/sc/1
 2 url \TU/lmr/m/n/12 : []$[][][][][] [] [] [] [][][][] [] [][][] [] [][] [] [][
 ] [] [][][][][]$[] (visité le 16/07/2024). 
  []
 
 
-Overfull \hbox (1.93259pt too wide) in paragraph at lines 229--229
+Overfull \hbox (1.93259pt too wide) in paragraph at lines 231--231
 [][]\TU/lmr/m/it/12 About - Schema.org\TU/lmr/m/n/12 , \TU/lmr/m/sc/12 url \TU/
 lmr/m/n/12 : []$[][][][][] [] [] [] [][][][][][] [] [][][] [] [][][][] [] [][][
 ][][] [] [][][][]$[] (visité le 19/08/2024). 
  []
 
 
-Overfull \hbox (37.00035pt too wide) in paragraph at lines 229--229
+Overfull \hbox (37.00035pt too wide) in paragraph at lines 231--231
 [][][]\TU/lmr/m/sc/12 Balle []\TU/lmr/m/n/12 (Francis), \TU/lmr/m/it/12 Sérendi
 pité\TU/lmr/m/n/12 , mars 2015, \TU/lmr/m/sc/12 url \TU/lmr/m/n/12 : []$[][][][
 ][] [] [] [] [][][] [] [][][][][][][][][][][] [] [][] [] [][][][][][][][][][][]
@@ -1005,20 +1005,20 @@ pité\TU/lmr/m/n/12 , mars 2015, \TU/lmr/m/sc/12 url \TU/lmr/m/n/12 : []$[][][][
 [7
 
 ]
-Overfull \hbox (9.21536pt too wide) in paragraph at lines 229--229
+Overfull \hbox (9.21536pt too wide) in paragraph at lines 231--231
 [][][] [] [][][][][][][] [] [][][][] [] [][] [] [][] [] [][][][][][] [][] [][][
 ][][][][][][][][][][] [] [][][][][][][][][][][][] [][] [][][][][][][][][][][][]
 [][] [][]
  []
 
 
-Overfull \hbox (8.91592pt too wide) in paragraph at lines 229--229
+Overfull \hbox (8.91592pt too wide) in paragraph at lines 231--231
 [][][]\TU/lmr/m/sc/12 Conseil de la radiodiffusion et des télécommunications ca
 nadiennes (CRTC)
  []
 
 
-Overfull \hbox (0.32355pt too wide) in paragraph at lines 229--229
+Overfull \hbox (0.32355pt too wide) in paragraph at lines 231--231
 [][][]\TU/lmr/m/sc/12 Dasgupta []\TU/lmr/m/n/12 (Anirban), []\TU/lmr/m/sc/12 Gh
 osh []\TU/lmr/m/n/12 (Arpita), []\TU/lmr/m/sc/12 Kumar []\TU/lmr/m/n/12 (Ravi),
  []\TU/lmr/m/sc/12 Olston []\TU/lmr/m/n/12 (Christopher), []\TU/lmr/m/sc/12 Pan
@@ -1026,21 +1026,21 @@ dey
  []
 
 
-Overfull \hbox (48.6472pt too wide) in paragraph at lines 229--229
+Overfull \hbox (48.6472pt too wide) in paragraph at lines 231--231
 [][]\TU/lmr/m/it/12 Get More Eyes on Your Content Using StumbleUpon\TU/lmr/m/n/
 12 , déc. 2012, \TU/lmr/m/sc/12 url \TU/lmr/m/n/12 : []$[][][][][] [] [] [] [][
 ][][][][][][][][][][][][][][] []
  []
 
 [8]
-Overfull \hbox (2.54834pt too wide) in paragraph at lines 229--229
+Overfull \hbox (2.54834pt too wide) in paragraph at lines 231--231
 \TU/lmr/m/it/12 rels\TU/lmr/m/n/12 , juin 2023, \TU/lmr/m/sc/12 url \TU/lmr/m/n
 /12 : []$[][][][][] [] [] [] [][][] [] [][][] [] [][] [] [][] [] [][][][][][] [
 ] [][][][][][] [][] [][] [][] [][][][][][][][][][][][][][] [][]
  []
 
 
-Overfull \hbox (5.20383pt too wide) in paragraph at lines 229--229
+Overfull \hbox (5.20383pt too wide) in paragraph at lines 231--231
 [][][]\TU/lmr/m/sc/12 Ministères de la Culture (France et Québec)[]\TU/lmr/m/n/
 12 , \TU/lmr/m/it/12 Rapport - Mission franco-québécoise
  []
@@ -1048,13 +1048,13 @@ Overfull \hbox (5.20383pt too wide) in paragraph at lines 229--229
 [9] [10] [11] [12
 
 ] [13]
-Overfull \hbox (1.18959pt too wide) in paragraph at lines 230--230
+Overfull \hbox (1.18959pt too wide) in paragraph at lines 232--232
 [][][]\TU/lmr/m/sc/12 Ehrmann []\TU/lmr/m/n/12 (Maud), «   Explorer la presse n
 umérisée : le projet Impresso », 129/2021 (27 nov.
  []
 
 
-Overfull \hbox (190.39917pt too wide) in paragraph at lines 230--230
+Overfull \hbox (190.39917pt too wide) in paragraph at lines 232--232
 [][][] [][] [][][][][][][] [][] [] [][] [][] [][] [][][][][][][] [][] [] [][] [
 ] [][] [][][][][][][] [] [][][][][][][] [] [][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[]
@@ -1062,27 +1062,27 @@ Overfull \hbox (190.39917pt too wide) in paragraph at lines 230--230
  []
 
 [14] [15]
-Overfull \hbox (8.58618pt too wide) in paragraph at lines 230--230
+Overfull \hbox (8.58618pt too wide) in paragraph at lines 232--232
 \TU/lmr/m/n/12 Challenges », \TU/lmr/m/it/12 IEEE Transactions on Visualization
  and Computer Graphics\TU/lmr/m/n/12 , 25–6 (1$[]$ juin
  []
 
 [16]
-Overfull \hbox (25.75261pt too wide) in paragraph at lines 231--231
+Overfull \hbox (25.75261pt too wide) in paragraph at lines 233--233
 [][]\TU/lmr/m/it/12 Accessibilité numérique | Mon Parcours Handicap\TU/lmr/m/n/
 12 , \TU/lmr/m/sc/12 url \TU/lmr/m/n/12 : []$[][][][][] [] [] [] [][][] [] [][]
 [][][][][][][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (52.77664pt too wide) in paragraph at lines 231--231
+Overfull \hbox (52.77664pt too wide) in paragraph at lines 233--233
 [][]\TU/lmr/m/it/12 Bulles de filtre et chambres d’écho - Fondation Descartes\T
 U/lmr/m/n/12 , \TU/lmr/m/sc/12 url \TU/lmr/m/n/12 : []$[][][][][] [] [] [] [][]
 [] [] [][][][][][][][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (22.57535pt too wide) in paragraph at lines 231--231
+Overfull \hbox (22.57535pt too wide) in paragraph at lines 233--233
 [][][][][][][][] [] [][][][][][][][] [] [][][][][][][][][] [][] [][][][][][][][
 ] [][] [][][] [][] [][][][][][][][][] [] [][][][][][][][][] [][] [][][][][][][]
 [][][][][] [][]
@@ -1091,14 +1091,14 @@ Overfull \hbox (22.57535pt too wide) in paragraph at lines 231--231
 [17
 
 ] [18]
-Overfull \hbox (4.03537pt too wide) in paragraph at lines 231--231
+Overfull \hbox (4.03537pt too wide) in paragraph at lines 233--233
 [][][][][][] [] [][][][][][] [] [][][][] [] [][] [] [][][][][][][][][][][] [] [
 ][][][][] [] [] [] [] [][] [][][] [][] [][][][][][] [][] [][][] [][] [][][][][]
 [][][][][][] [][]
  []
 
 [19]
-Overfull \hbox (28.0301pt too wide) in paragraph at lines 231--231
+Overfull \hbox (28.0301pt too wide) in paragraph at lines 233--233
 \TU/lmr/m/n/12 pectives d’émancipation. Le disparate comme condition d’individu
 ation par la relation ? »,
  []
@@ -1106,32 +1106,27 @@ ation par la relation ? »,
 [20] [21] [22
 
 ]
-Overfull \hbox (7.16252pt too wide) in paragraph at lines 234--234
+Overfull \hbox (7.16252pt too wide) in paragraph at lines 236--236
 [][]\TU/lmr/m/it/12 CNRTL : Définition de CATALOGUE\TU/lmr/m/n/12 , \TU/lmr/m/s
 c/12 url \TU/lmr/m/n/12 : []$[][][][][] [] [] [] [][][][][] [] [][] [] [][][][]
 [][][][][][] [] [][][][][][][][][] []
  []
 
 
-Overfull \hbox (10.98088pt too wide) in paragraph at lines 234--234
+Overfull \hbox (10.98088pt too wide) in paragraph at lines 236--236
 [][]\TU/lmr/m/it/12 L.H.O.O.Q. - Centre Pompidou\TU/lmr/m/n/12 , \TU/lmr/m/sc/1
 2 url \TU/lmr/m/n/12 : []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][
 ][][] [] [][] [] [][] [] [][][][][][][][][][] []
  []
 
 [23]
-Overfull \hbox (6.4675pt too wide) in paragraph at lines 234--234
+Overfull \hbox (6.4675pt too wide) in paragraph at lines 236--236
 [][][][][][][][][][][] [] [][][] [] [][][][][][] [][] [][][][][][] [][] [][][][
 ][][] [][] [][][][][] [] [][][] [] [][][][][][]$[] \TU/lmr/m/n/12 (visité le 19
 /08/2024). 
  []
 
-[24]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 239.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 239.
- [25
+[24] [25
 
 ] [26] [27] [28
 
@@ -1197,7 +1192,7 @@ ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 [5]
-Underfull \vbox (badness 2310) has occurred while \output is active []
+Underfull \vbox (badness 2229) has occurred while \output is active []
 
  [6]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -2512,20 +2507,16 @@ L3 programming layer <2023-11-01>
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'GRIVEAU_MAXIME_document_maitre.run.xm
 l'.
 \openout1 = `GRIVEAU_MAXIME_document_maitre.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27463 strings out of 474929
- 541690 string characters out of 5761542
+ 27464 strings out of 474929
+ 541704 string characters out of 5761542
  1952161 words of memory out of 5000000
- 49130 multiletter control sequences out of 15000+600000
+ 49131 multiletter control sequences out of 15000+600000
  562326 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  79i,13n,93p,3861b,5767s stack positions out of 10000i,1000n,20000p,200000b,200000s
