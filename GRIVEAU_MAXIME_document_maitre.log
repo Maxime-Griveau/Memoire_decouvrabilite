@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.11)  31 AUG 2024 18:22
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.11)  1 SEP 2024 12:17
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -772,6 +772,9 @@ Package csquotes Info: Redefining alias 'default' -> 'french'.
 
 (./GRIVEAU_MAXIME_document_maitre.aux
 
+LaTeX Warning: Label `fig:image1' multiply defined.
+
+
 LaTeX Warning: Label `fig:image27' multiply defined.
 
 )
@@ -1192,7 +1195,7 @@ ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 [5]
-Underfull \vbox (badness 2229) has occurred while \output is active []
+Underfull \vbox (badness 2310) has occurred while \output is active []
 
  [6]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -1207,11 +1210,11 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
+ex-text;!
 [7]
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -1344,22 +1347,6 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
 
 Package fancyhdr Warning: \headheight is too small (16.0pt): 
 (fancyhdr)                Make it at least 26.56978pt, for example:
@@ -1369,8 +1356,13 @@ Package fancyhdr Warning: \headheight is too small (16.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.56978pt}.
 
 [18]
+File: images/gesimavsgico.png Graphic file (type bmp)
+<images/gesimavsgico.png>
 File: images/image1.png Graphic file (type bmp)
 <images/image1.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
@@ -1398,7 +1390,7 @@ ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 2197) in paragraph at lines 145--145
+Underfull \hbox (badness 2197) in paragraph at lines 166--166
 [][][]\TU/lmr/m/n/10 .[][]Il est très difficile de trouver un auteur à cette ci
 tation, très présente sur le web
  []
@@ -1416,26 +1408,26 @@ ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 5637) in paragraph at lines 148--148
+Underfull \hbox (badness 5637) in paragraph at lines 169--169
 [][][]\TU/lmr/m/n/10 .[][]Josée Plamondon, \TU/lmr/m/it/10 Bien documenter pour
  favoriser la découverte en ligne : tra-
  []
 
 
-Underfull \hbox (badness 5161) in paragraph at lines 148--148
+Underfull \hbox (badness 5161) in paragraph at lines 169--169
 \TU/lmr/m/it/10 vailler avec les métadonnées\TU/lmr/m/n/10 , rapp. tech., Canad
 a, Fondation Jean-Pierre Perreault, 2019,
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 148--148
+Underfull \hbox (badness 1253) in paragraph at lines 169--169
 []$[][][][][] [] [] [] [][][][][][][][][] [] [][][][] [] [][] [] [][] [] [][][]
 [][][][][][][] [] [][][][][][][] [] [][][][][] [] [][][][][][][]$[]\TU/lmr/m/n/
 10 , pp. 13-14, cité dans \TU/lmr/m/it/10 Rap-
  []
 
 
-Overfull \hbox (86.25589pt too wide) in paragraph at lines 148--148
+Overfull \hbox (86.25589pt too wide) in paragraph at lines 169--169
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
@@ -1504,13 +1496,11 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
 [25]
-File: images/image6.png Graphic file (type bmp)
-<images/image6.png>
 File: images/image7.png Graphic file (type bmp)
 <images/image7.png>
+File: images/image6.png Graphic file (type bmp)
+<images/image6.png>
 
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
@@ -1523,45 +1513,45 @@ ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 6859) in paragraph at lines 238--238
+Underfull \hbox (badness 6859) in paragraph at lines 259--259
 [][][]\TU/lmr/m/n/10 .[][]Josée Plamondon, Bien documenter pour favoriser la dé
 couverte en ligne : tra-
  []
 
 
-Underfull \hbox (badness 5771) in paragraph at lines 238--238
+Underfull \hbox (badness 5771) in paragraph at lines 259--259
 \TU/lmr/m/n/10 vailler avec les métadonnées, rapp. tech., Canada, Fondation Jea
 n-Pierre Perreault, 2019,
  []
 
 
-Underfull \hbox (badness 5359) in paragraph at lines 238--238
+Underfull \hbox (badness 5359) in paragraph at lines 259--259
 \TU/lmr/m/n/10 url : []$[][][][][] [] [] [] [][][][][][][][][] [] [][][][] [] [
 ][] [] [][] [] [][][][][][][][][][] [] [][][][][][][] [] [][][][][] [] [][][][]
 [][][]$[], p. 14.cité dans :
  []
 
 
-Underfull \hbox (badness 4832) in paragraph at lines 238--238
+Underfull \hbox (badness 4832) in paragraph at lines 259--259
 \TU/lmr/m/it/10 Rapport - Mission franco-québécoise sur la découvrabilité en li
 gne des contenus culturels
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 238--238
+Underfull \hbox (badness 2744) in paragraph at lines 259--259
 \TU/lmr/m/it/10 francophones\TU/lmr/m/n/10 , Ministères de la Culture de la Fra
 nce et du Québec, France, Québec, 2020,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--238
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
 \TU/lmr/m/n/10 p. 60, []$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][]
 [] [] [][] [] [][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (86.25589pt too wide) in paragraph at lines 238--238
+Overfull \hbox (86.25589pt too wide) in paragraph at lines 259--259
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
@@ -1583,10 +1573,7 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
-
-Underfull \vbox (badness 1424) has occurred while \output is active []
-
- [27]
+[27]
 File: images/image8.png Graphic file (type bmp)
 <images/image8.png>
 
@@ -1610,7 +1597,7 @@ ex-text;!
 ]
 Chapitre 4.
 
-Overfull \hbox (5.55579pt too wide) in paragraph at lines 270--270
+Overfull \hbox (5.55579pt too wide) in paragraph at lines 291--291
 []\TU/lmr/bx/n/14.4 Sérendipité[] : quand l’heureux hasard rencontre les algori
 thmes 
  []
@@ -1670,7 +1657,7 @@ ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
-LaTeX Warning: Citation '14' on page 32 undefined on input line 274.
+LaTeX Warning: Citation '14' on page 32 undefined on input line 295.
 
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
@@ -1707,7 +1694,7 @@ ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 1648) in paragraph at lines 289--289
+Underfull \hbox (badness 1648) in paragraph at lines 310--310
 [][][]\TU/lmr/m/n/10 .[][][][]\TU/lmr/m/it/10 Get More Eyes on Your Content Usi
 ng StumbleUpon\TU/lmr/m/n/10 , déc. 2012, \TU/lmr/m/sc/10 url \TU/lmr/m/n/10 : 
 []$[][][][][] [] [] []
@@ -2481,7 +2468,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \indexentry{IA|hyperpage}{113}
 \indexentry{IA|hyperpage}{113}
 ]
-Underfull \vbox (badness 1184) has occurred while \output is active []
+Underfull \vbox (badness 1769) has occurred while \output is active []
 
  [114])
 \tf@lof=\write5
@@ -2506,7 +2493,15 @@ L3 programming layer <2023-11-01>
  ***********
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                GRIVEAU_MAXIME_document_maitre
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'GRIVEAU_MAXIME_document_maitre.run.xm
 l'.
@@ -2514,10 +2509,10 @@ l'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27464 strings out of 474929
- 541704 string characters out of 5761542
+ 27471 strings out of 474929
+ 541924 string characters out of 5761542
  1952161 words of memory out of 5000000
- 49131 multiletter control sequences out of 15000+600000
+ 49137 multiletter control sequences out of 15000+600000
  562326 words of font info for 80 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  79i,13n,93p,3861b,5767s stack positions out of 10000i,1000n,20000p,200000b,200000s

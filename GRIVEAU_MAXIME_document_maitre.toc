@@ -2,7 +2,7 @@
 \contentsline {chapter}{Résumé}{i}{chapter*.1}%
 \contentsline {chapter}{Remerciements}{iii}{chapter*.2}%
 \contentsline {chapter}{Introduction}{xxv}{chapter*.8}%
-\contentsline {part}{I\hspace {1em}Partie 1 : Historique et enjeux de la notion}{1}{part.1}%
+\contentsline {part}{I\hspace {1em}Partie 1 : Historique et enjeux de la découvrabilité}{1}{part.1}%
 \contentsline {chapter}{\numberline {1}Aux origines était la Disponibilité}{3}{chapter.1}%
 \contentsline {subsection}{\numberline {1.}La nouvelle bibliothèque de Babel : vers un Big data patrimonial}{3}{subsection.1.0.1}%
 \contentsline {subsection}{\numberline {2.}Quand la \enquote {Fatigue muséale} rencontre \enquote {l'économie de l'attention}}{5}{subsection.1.0.2}%
