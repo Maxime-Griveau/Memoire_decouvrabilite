@@ -3,7 +3,7 @@
 \contentsline {chapter}{Remerciements}{iii}{chapter*.2}%
 \contentsline {chapter}{Introduction}{xxv}{chapter*.8}%
 \contentsline {part}{I\hspace {1em}Partie 1 : Historique et enjeux de la découvrabilité}{1}{part.1}%
-\contentsline {chapter}{\numberline {1}Aux origines était la Disponibilité}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {1}Aux origines était la disponibilité}{3}{chapter.1}%
 \contentsline {subsection}{\numberline {1.}La nouvelle bibliothèque de Babel : vers un Big data patrimonial}{3}{subsection.1.0.1}%
 \contentsline {subsection}{\numberline {2.}Quand la \enquote {Fatigue muséale} rencontre \enquote {l'économie de l'attention}}{5}{subsection.1.0.2}%
 \contentsline {subsection}{\numberline {3.}La naissance de la découvrabilité}{7}{subsection.1.0.3}%
@@ -18,42 +18,42 @@
 \contentsline {subsubsection}{\numberline {a.}Histoire du fonds et de ses lacunes}{15}{subsubsection.2.0.3.1}%
 \contentsline {subsubsection}{\numberline {b.}La numérisation du fonds télévisuel}{17}{subsubsection.2.0.3.2}%
 \contentsline {subsubsection}{\numberline {c.}Métadonnées du fonds télévisuel}{18}{subsubsection.2.0.3.3}%
-\contentsline {chapter}{\numberline {3}Être repéré dans un vaste ensemble : la repérabilité}{21}{chapter.3}%
-\contentsline {subsection}{\numberline {1.}Naviguer dans l'océan du web : l'importance du référencement}{21}{subsection.3.0.1}%
-\contentsline {subsubsection}{\numberline {a.}Data.bnf.fr : sortir les données du web profond}{23}{subsubsection.3.0.1.1}%
-\contentsline {subsection}{\numberline {2.}Parler aux humains : l'exemple des archives de la RTS}{27}{subsection.3.0.2}%
-\contentsline {subsubsection}{\numberline {a.}La \enquote {Bibliothèque de l'Honnête Homme} comme stratégie de valorisation }{27}{subsubsection.3.0.2.1}%
-\contentsline {subsubsection}{\numberline {b.}L'importance du SMO (social media optimisation)}{28}{subsubsection.3.0.2.2}%
-\contentsline {chapter}{\numberline {4}Émerger dans le lac d'une collection : la recommandation}{31}{chapter.4}%
-\contentsline {subsection}{\numberline {1.}Sérendipité : quand l'heureux hasard rencontre les algorithmes}{31}{subsection.4.0.1}%
-\contentsline {subsection}{\numberline {2.}Les algorithmes de recommandation}{34}{subsection.4.0.2}%
-\contentsline {subsubsection}{\numberline {a.}La notion d'Algorithme de service public : \enquote {prenez les commandes}, l'algorithme de recommandation de Radio France}{37}{subsubsection.4.0.2.1}%
-\contentsline {part}{II\hspace {1em}Partie 2 : Nouveaux catalogues, nouvelles interfaces, nouveaux usages}{41}{part.2}%
-\contentsline {chapter}{\numberline {5}Les interfaces : nouvelles architectures ?}{43}{chapter.5}%
-\contentsline {chapter}{\numberline {6}« Vers de nouveaux catalogues »}{45}{chapter.6}%
-\contentsline {subsection}{\numberline {1.}La transition bibliographique}{45}{subsection.6.0.1}%
-\contentsline {subsection}{\numberline {2.}Les portails et le moissonnage des données}{46}{subsection.6.0.2}%
-\contentsline {subsection}{\numberline {3.}Des catalogues aux politiques \textit {data driven}}{49}{subsection.6.0.3}%
-\contentsline {chapter}{\numberline {7}La visualisation de données en tant que nouvelle interface au service de la découvrabilité}{53}{chapter.7}%
-\contentsline {subsection}{\numberline {1.}Voir globalement : l'importance d'avoir une vue d'ensemble des collections}{53}{subsection.7.0.1}%
-\contentsline {subsection}{\numberline {2.}Voir sous un autre angle : donner des clés de lecture différentes des collections}{56}{subsection.7.0.2}%
-\contentsline {subsection}{\numberline {3.}Voir pour aller plus loin}{60}{subsection.7.0.3}%
-\contentsline {chapter}{\numberline {8}Nouvelles interfaces : nouveaux usages}{65}{chapter.8}%
-\contentsline {subsection}{\numberline {1.}À chacun son interface : l'exemple d'InTaVia}{65}{subsection.8.0.1}%
-\contentsline {subsection}{\numberline {2.}Vers un nouveau \textit {crowdsourcing} reponsant sur l'ouverture des données}{68}{subsection.8.0.2}%
-\contentsline {subsection}{\numberline {3.}L'intelligence artificielle comme porte d'accès au savoir, encore faut-il trouver la clé}{71}{subsection.8.0.3}%
-\contentsline {part}{III\hspace {1em}Partie 3 : le code c'est la loi, régulations et limites à la découvrabilité}{75}{part.3}%
-\contentsline {chapter}{\numberline {9}Le web : prison ou fenêtre ouverte sur le monde ?}{81}{chapter.9}%
-\contentsline {subsection}{\numberline {1.}L'hyperchoix}{81}{subsection.9.0.1}%
-\contentsline {subsection}{\numberline {2.}Une longue traine ou une courte tête ?}{83}{subsection.9.0.2}%
-\contentsline {subsection}{\numberline {3.}Lutter contre la \enquote {bulle de filtre}}{86}{subsection.9.0.3}%
-\contentsline {chapter}{\numberline {10}Difficultés institutionnelles}{91}{chapter.10}%
-\contentsline {subsection}{\numberline {1.}Une nécessaire acculturation au numérique et des tabous à lever}{91}{subsection.10.0.1}%
-\contentsline {subsection}{\numberline {2.}Règlementer pour favoriser la découvrabilité}{94}{subsection.10.0.2}%
-\contentsline {subsection}{\numberline {3.}La question des droits d'auteurs}{95}{subsection.10.0.3}%
-\contentsline {chapter}{\numberline {11}Les angles morts de la notion de découvrabilité}{99}{chapter.11}%
-\contentsline {subsection}{\numberline {1.}Découvrabilité appliquée au code : l'explicabilité}{99}{subsection.11.0.1}%
-\contentsline {subsection}{\numberline {2.}L'accessibilité numérique}{101}{subsection.11.0.2}%
-\contentsline {subsection}{\numberline {3.}Et la planète dans tout ça ?}{103}{subsection.11.0.3}%
-\contentsline {chapter}{Conclusion}{107}{chapter*.11}%
-\contentsline {chapter}{\numberline {A}Supports conservés}{111}{appendix.A}%
+\contentsline {chapter}{\numberline {3}Être repéré dans un vaste ensemble : la repérabilité}{23}{chapter.3}%
+\contentsline {subsection}{\numberline {1.}Naviguer dans l'océan du web : l'importance du référencement}{23}{subsection.3.0.1}%
+\contentsline {subsubsection}{\numberline {a.}Data.bnf.fr : sortir les données du web profond}{25}{subsubsection.3.0.1.1}%
+\contentsline {subsection}{\numberline {2.}Parler aux humains : l'exemple des archives de la RTS}{29}{subsection.3.0.2}%
+\contentsline {subsubsection}{\numberline {a.}La \enquote {Bibliothèque de l'Honnête Homme} comme stratégie de valorisation }{29}{subsubsection.3.0.2.1}%
+\contentsline {subsubsection}{\numberline {b.}L'importance du SMO (social media optimisation)}{30}{subsubsection.3.0.2.2}%
+\contentsline {chapter}{\numberline {4}Émerger dans le lac d'une collection : la recommandation}{33}{chapter.4}%
+\contentsline {subsection}{\numberline {1.}Sérendipité : quand l'heureux hasard rencontre les algorithmes}{33}{subsection.4.0.1}%
+\contentsline {subsection}{\numberline {2.}Les algorithmes de recommandation}{36}{subsection.4.0.2}%
+\contentsline {subsubsection}{\numberline {a.}La notion d'Algorithme de service public : \enquote {prenez les commandes}, l'algorithme de recommandation de Radio France}{39}{subsubsection.4.0.2.1}%
+\contentsline {part}{II\hspace {1em}Partie 2 : Nouveaux catalogues, nouvelles interfaces, nouveaux usages}{43}{part.2}%
+\contentsline {chapter}{\numberline {5}Les interfaces : nouvelles architectures ?}{45}{chapter.5}%
+\contentsline {chapter}{\numberline {6}« Vers de nouveaux catalogues »}{47}{chapter.6}%
+\contentsline {subsection}{\numberline {1.}La transition bibliographique}{47}{subsection.6.0.1}%
+\contentsline {subsection}{\numberline {2.}Les portails et le moissonnage des données}{49}{subsection.6.0.2}%
+\contentsline {subsection}{\numberline {3.}Des catalogues aux politiques \textit {data driven}}{51}{subsection.6.0.3}%
+\contentsline {chapter}{\numberline {7}La visualisation de données en tant que nouvelle interface au service de la découvrabilité}{55}{chapter.7}%
+\contentsline {subsection}{\numberline {1.}Voir globalement : l'importance d'avoir une vue d'ensemble des collections}{55}{subsection.7.0.1}%
+\contentsline {subsection}{\numberline {2.}Voir sous un autre angle : donner des clés de lecture différentes des collections}{59}{subsection.7.0.2}%
+\contentsline {subsection}{\numberline {3.}Voir pour aller plus loin}{63}{subsection.7.0.3}%
+\contentsline {chapter}{\numberline {8}Nouvelles interfaces : nouveaux usages}{69}{chapter.8}%
+\contentsline {subsection}{\numberline {1.}À chacun son interface : l'exemple d'InTaVia}{69}{subsection.8.0.1}%
+\contentsline {subsection}{\numberline {2.}Vers un nouveau \textit {crowdsourcing} reposant sur l'ouverture des données}{72}{subsection.8.0.2}%
+\contentsline {subsection}{\numberline {3.}L'intelligence artificielle comme porte d'accès au savoir, encore faut-il trouver la clé}{75}{subsection.8.0.3}%
+\contentsline {part}{III\hspace {1em}Partie 3 : le code c'est la loi, régulations et limites à la découvrabilité}{79}{part.3}%
+\contentsline {chapter}{\numberline {9}Le web : prison ou fenêtre ouverte sur le monde ?}{85}{chapter.9}%
+\contentsline {subsection}{\numberline {1.}L'hyperchoix}{85}{subsection.9.0.1}%
+\contentsline {subsection}{\numberline {2.}Une longue traine ou une courte tête ?}{87}{subsection.9.0.2}%
+\contentsline {subsection}{\numberline {3.}Lutter contre la \enquote {bulle de filtre}}{90}{subsection.9.0.3}%
+\contentsline {chapter}{\numberline {10}Difficultés institutionnelles}{95}{chapter.10}%
+\contentsline {subsection}{\numberline {1.}Une nécessaire acculturation au numérique et des tabous à lever}{95}{subsection.10.0.1}%
+\contentsline {subsection}{\numberline {2.}Règlementer pour favoriser la découvrabilité}{98}{subsection.10.0.2}%
+\contentsline {subsection}{\numberline {3.}La question des droits d'auteurs}{99}{subsection.10.0.3}%
+\contentsline {chapter}{\numberline {11}Les angles morts de la notion de découvrabilité}{103}{chapter.11}%
+\contentsline {subsection}{\numberline {1.}Découvrabilité appliquée au code : l'explicabilité}{103}{subsection.11.0.1}%
+\contentsline {subsection}{\numberline {2.}L'accessibilité numérique}{105}{subsection.11.0.2}%
+\contentsline {subsection}{\numberline {3.}Et la planète dans tout ça ?}{107}{subsection.11.0.3}%
+\contentsline {chapter}{Conclusion}{111}{chapter*.11}%
+\contentsline {chapter}{\numberline {A}Supports conservés}{115}{appendix.A}%

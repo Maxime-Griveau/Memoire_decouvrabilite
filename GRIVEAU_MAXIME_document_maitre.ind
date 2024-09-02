@@ -1,108 +1,107 @@
 \begin{theindex}
 
-  \item Accessibilité, \hyperpage{102, 103}
-  \item Algorithme de service public, \hyperpage{37, 38}
+  \item Accessibilité, \hyperpage{106, 107}
+  \item Algorithme de service public, \hyperpage{39, 40}
 
   \indexspace
 
   \item Big data, \hyperpage{5, 6}
-  \item Bulle de filtre, \hyperpage{7}, \hyperpage{38}, 
-		\hyperpage{86--89}
+  \item Bulle de filtre, \hyperpage{7}, \hyperpage{40}, 
+		\hyperpage{90--93}
 
   \indexspace
 
-  \item Catalogue, \hyperpage{25}, \hyperpage{37, 38}, \hyperpage{44}, 
-		\hyperpage{46, 47}, \hyperpage{49}, \hyperpage{54}, 
-		\hyperpage{88, 89}, \hyperpage{93}, \hyperpage{95}
-  \item Clé de lecture, \hyperpage{56--59}, \hyperpage{66}
-  \item Code is law, \hyperpage{79}
-  \item Courte tête, \hyperpage{84}
-  \item Crowdsourcing, \hyperpage{69, 70}
+  \item Catalogue, \hyperpage{27}, \hyperpage{39, 40}, \hyperpage{46}, 
+		\hyperpage{48, 49}, \hyperpage{52}, \hyperpage{56}, 
+		\hyperpage{92, 93}, \hyperpage{97}, \hyperpage{99}
+  \item Clé de lecture, \hyperpage{59}, \hyperpage{62}, \hyperpage{70}
+  \item Code is law, \hyperpage{83}
+  \item Courte tête, \hyperpage{88}
+  \item Crowdsourcing, \hyperpage{73, 74}
 
   \indexspace
 
-  \item Data driven, \hyperpage{49}
-  \item Disponibilité, \hyperpage{9}, \hyperpage{22}, \hyperpage{34}, 
-		\hyperpage{92}, \hyperpage{96}
-  \item Données massives, \hyperpage{4}, \hyperpage{32}
-  \item Droit d’auteur, \hyperpage{95--97}
+  \item Data driven, \hyperpage{51}
+  \item Disponibilité, \hyperpage{9}, \hyperpage{24}, \hyperpage{36}, 
+		\hyperpage{96}, \hyperpage{100}
+  \item Données massives, \hyperpage{4}, \hyperpage{34}
+  \item Droit d’auteur, \hyperpage{99--101}
 
   \indexspace
 
-  \item FAIR, \hyperpage{48}
-  \item Fatigue muséale, \hyperpage{5}, \hyperpage{27}, 
-		\hyperpage{53, 54}, \hyperpage{60}
+  \item FAIR, \hyperpage{50}
+  \item Fatigue muséale, \hyperpage{5}, \hyperpage{29}, \hyperpage{55}, 
+		\hyperpage{63}
 
   \indexspace
 
-  \item Hyperchoix, \hyperpage{81}, \hyperpage{83}
+  \item Hyperchoix, \hyperpage{85}, \hyperpage{87}
 
   \indexspace
 
-  \item IIIF, \hyperpage{48}
+  \item IIIF, \hyperpage{50}
   \item Intelligence artificielle, 
 		\hyperindexformat{\see{IA\index{IA}}}{17}, 
-		\hyperindexformat{\see{IA\index{IA}}}{20}, 
-		\hyperpage{61}, \hyperpage{71--73}, 
-		\hyperpage{98--101}, \hyperpage{104}
-    \subitem RAG, \hyperpage{71--73}, \hyperpage{100}
-  \item Interface, \hyperpage{43, 44}, \hyperpage{53}, 
-		\hyperpage{58, 59}, \hyperpage{61--63}, 
-		\hyperpage{65--67}, \hyperpage{71}, \hyperpage{100}
-  \item Interopérabilité, \hyperpage{24}, \hyperpage{48}
+		\hyperpage{64}, \hyperpage{75--77}, 
+		\hyperpage{102--105}, \hyperpage{108}
+    \subitem RAG, \hyperpage{75--77}, \hyperpage{104}
+  \item Interface, \hyperpage{45, 46}, \hyperpage{55}, 
+		\hyperpage{62--66}, \hyperpage{69--71}, \hyperpage{75}, 
+		\hyperpage{104}
+  \item Interopérabilité, \hyperpage{26}, \hyperpage{50}
 
   \indexspace
 
-  \item Knowledge graph, \hyperpage{26}, \hyperpage{59, 60}, 
-		\hyperpage{66}
+  \item Knowledge graph, \hyperpage{28}, \hyperpage{62, 63}, 
+		\hyperpage{70}
 
   \indexspace
 
-  \item Littératie numérique, \hyperpage{74}, \hyperpage{91}
-  \item Longue traine, \hyperpage{83--86}
+  \item Littératie numérique, \hyperpage{78}, \hyperpage{95}
+  \item Longue traine, \hyperpage{87--90}
 
   \indexspace
 
   \item Modèles de données
-    \subitem CIDOC-CRM, \hyperpage{66}
-    \subitem FRBR, \hyperpage{23}, \hyperpage{46}
-    \subitem IFLA-LRM, \hyperpage{23}, \hyperpage{46}, \hyperpage{66}
+    \subitem CIDOC-CRM, \hyperpage{70}
+    \subitem FRBR, \hyperpage{25}, \hyperpage{48}
+    \subitem IFLA-LRM, \hyperpage{25}, \hyperpage{48}, \hyperpage{70}
 
   \indexspace
 
-  \item Open data, \hyperpage{68}
+  \item Open data, \hyperpage{72}
 
   \indexspace
 
-  \item Portail, \hyperpage{5}, \hyperpage{25, 26}, \hyperpage{47, 48}, 
-		\hyperpage{65}, \hyperpage{92}
+  \item Portail, \hyperpage{5}, \hyperpage{27, 28}, \hyperpage{49--51}, 
+		\hyperpage{69}, \hyperpage{96}
 
   \indexspace
 
-  \item Recommandation, \hyperpage{28}, \hyperpage{33, 34}, 
-		\hyperpage{36--38}, \hyperpage{69}, \hyperpage{71}, 
-		\hyperpage{83}, \hyperpage{86}, \hyperpage{89}, 
-		\hyperpage{91--93}, \hyperpage{100}
-  \item Repérabilité, \hyperpage{9}, \hyperpage{21}, \hyperpage{28}, 
-		\hyperpage{46}, \hyperpage{48}, \hyperpage{66}, 
-		\hyperpage{73}, \hyperpage{85}, \hyperpage{91, 92}, 
-		\hyperpage{102}
-  \item Référencement, \hyperpage{21, 22}, \hyperpage{24--28}, 
-		\hyperpage{48}, \hyperpage{92}, \hyperpage{102, 103}
-  \item Régulation, \hyperpage{77}, \hyperpage{79}, \hyperpage{94}
+  \item Recommandation, \hyperpage{30}, \hyperpage{35, 36}, 
+		\hyperpage{38--40}, \hyperpage{73}, \hyperpage{75}, 
+		\hyperpage{87}, \hyperpage{90}, \hyperpage{93}, 
+		\hyperpage{95--97}, \hyperpage{104}
+  \item Repérabilité, \hyperpage{9}, \hyperpage{23}, \hyperpage{30}, 
+		\hyperpage{48}, \hyperpage{51}, \hyperpage{70}, 
+		\hyperpage{77}, \hyperpage{89}, \hyperpage{95, 96}, 
+		\hyperpage{106}
+  \item Référencement, \hyperpage{23, 24}, \hyperpage{26--30}, 
+		\hyperpage{50, 51}, \hyperpage{96}, 
+		\hyperpage{106, 107}
+  \item Régulation, \hyperpage{81}, \hyperpage{83}, \hyperpage{98}
 
   \indexspace
 
-  \item Sérendipité, \hyperpage{31--34}, \hyperpage{59}, 
-		\hyperpage{61}
+  \item Sérendipité, \hyperpage{33--36}, \hyperpage{63, 64}
 
   \indexspace
 
-  \item Trouvabilité, \hyperpage{54}, \hyperpage{65}, \hyperpage{67}
+  \item Trouvabilité, \hyperpage{56}, \hyperpage{69}, \hyperpage{71}
 
   \indexspace
 
-  \item Économie de l’attention, \hyperpage{6}, \hyperpage{33}, 
-		\hyperpage{84}, \hyperpage{87}
+  \item Économie de l’attention, \hyperpage{6}, \hyperpage{35}, 
+		\hyperpage{88}, \hyperpage{91}
 
 \end{theindex}
