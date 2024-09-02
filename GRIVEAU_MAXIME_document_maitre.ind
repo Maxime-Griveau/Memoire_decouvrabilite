@@ -1,6 +1,6 @@
 \begin{theindex}
 
-  \item Accessibilité, \hyperpage{106, 107}
+  \item Accessibilité, \hyperpage{108, 109}
   \item Algorithme de service public, \hyperpage{39, 40}
 
   \indexspace
@@ -16,7 +16,7 @@
 		\hyperpage{92, 93}, \hyperpage{97}, \hyperpage{99}
   \item Clé de lecture, \hyperpage{59}, \hyperpage{62}, \hyperpage{70}
   \item Code is law, \hyperpage{83}
-  \item Courte tête, \hyperpage{88}
+  \item Courte tête, \hyperpage{87}
   \item Crowdsourcing, \hyperpage{73, 74}
 
   \indexspace
@@ -25,7 +25,7 @@
   \item Disponibilité, \hyperpage{9}, \hyperpage{24}, \hyperpage{36}, 
 		\hyperpage{96}, \hyperpage{100}
   \item Données massives, \hyperpage{4}, \hyperpage{34}
-  \item Droit d’auteur, \hyperpage{99--101}
+  \item Droit d’auteur, \hyperpage{100--102}
 
   \indexspace
 
@@ -42,12 +42,12 @@
   \item IIIF, \hyperpage{50}
   \item Intelligence artificielle, 
 		\hyperindexformat{\see{IA\index{IA}}}{17}, 
-		\hyperpage{64}, \hyperpage{75--77}, 
-		\hyperpage{102--105}, \hyperpage{108}
-    \subitem RAG, \hyperpage{75--77}, \hyperpage{104}
+		\hyperpage{64}, \hyperpage{75--77}, \hyperpage{102}, 
+		\hyperpage{105--107}, \hyperpage{110}
+    \subitem RAG, \hyperpage{75--77}, \hyperpage{106}
   \item Interface, \hyperpage{45, 46}, \hyperpage{55}, 
 		\hyperpage{62--66}, \hyperpage{69--71}, \hyperpage{75}, 
-		\hyperpage{104}
+		\hyperpage{106}
   \item Interopérabilité, \hyperpage{26}, \hyperpage{50}
 
   \indexspace
@@ -81,15 +81,15 @@
   \item Recommandation, \hyperpage{30}, \hyperpage{35, 36}, 
 		\hyperpage{38--40}, \hyperpage{73}, \hyperpage{75}, 
 		\hyperpage{87}, \hyperpage{90}, \hyperpage{93}, 
-		\hyperpage{95--97}, \hyperpage{104}
+		\hyperpage{95--97}, \hyperpage{106}
   \item Repérabilité, \hyperpage{9}, \hyperpage{23}, \hyperpage{30}, 
 		\hyperpage{48}, \hyperpage{51}, \hyperpage{70}, 
 		\hyperpage{77}, \hyperpage{89}, \hyperpage{95, 96}, 
-		\hyperpage{106}
+		\hyperpage{108}
   \item Référencement, \hyperpage{23, 24}, \hyperpage{26--30}, 
 		\hyperpage{50, 51}, \hyperpage{96}, 
-		\hyperpage{106, 107}
-  \item Régulation, \hyperpage{81}, \hyperpage{83}, \hyperpage{98}
+		\hyperpage{108, 109}
+  \item Régulation, \hyperpage{81}, \hyperpage{83}, \hyperpage{99}
 
   \indexspace
 

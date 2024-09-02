@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.11)  2 SEP 2024 14:12
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.11)  2 SEP 2024 22:21
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2362,7 +2362,7 @@ ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
-Underfull \vbox (badness 2326) has occurred while \output is active []
+Underfull \vbox (badness 3657) has occurred while \output is active []
 
  [88]
 File: images/image25.png Graphic file (type bmp)
@@ -2374,27 +2374,31 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[89]
-Underfull \vbox (badness 1072) has occurred while \output is active []
-
- [90]
-Underfull \hbox (badness 1902) in paragraph at lines 73--73
+[89] [90]
+Underfull \hbox (badness 1902) in paragraph at lines 74--74
 [][][]\TU/lmr/m/n/10 .[][][][]\TU/lmr/m/it/10 Bulles de filtre et chambres d’éc
 ho - Fondation Descartes\TU/lmr/m/n/10 , \TU/lmr/m/sc/10 url \TU/lmr/m/n/10 : [
 ]$[][][][][] [] [] [] [][][] []
  []
 
-[91]
+
+Underfull \vbox (badness 2221) has occurred while \output is active []
+
+ [91]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
 LaTeX Warning: Citation 'Chaire Pluralisme culturel et éthique du numérique (Pc
-En)' on page 92 undefined on input line 79.
+En)' on page 92 undefined on input line 80.
 
 
-LaTeX Warning: Citation 'mai 2022' on page 92 undefined on input line 79.
+LaTeX Warning: Citation 'mai 2022' on page 92 undefined on input line 80.
 
-[92] [93] [94
+
+Underfull \vbox (badness 1033) has occurred while \output is active []
+
+ [92]
+[93] [94
 
 ]
 Chapitre 10.
@@ -2405,30 +2409,34 @@ Underfull \vbox (badness 3068) has occurred while \output is active []
 File: images/image26.png Graphic file (type bmp)
 <images/image26.png>
 
-Underfull \vbox (badness 1048) has occurred while \output is active []
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [96]
-[97]
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
+[97] [98]
+Underfull \vbox (badness 1394) has occurred while \output is active []
 
-Underfull \vbox (badness 2913) has occurred while \output is active []
-
- [98]
-[99]
-Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
-ex-text;!
+ [99]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 [100]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1603) has occurred while \output is active []
 
  [101]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[102]
+
+Underfull \vbox (badness 2245) has occurred while \output is active []
+
+ [102]
+[103] [104
+
+]
 Chapitre 11.
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
@@ -2437,15 +2445,13 @@ ex-text;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [103
-
-]
+ [105]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 
 Underfull \vbox (badness 3108) has occurred while \output is active []
 
- [104]
+ [106]
 File: images/image27.png Graphic file (type bmp)
 <images/image27.png>
 
@@ -2455,12 +2461,12 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[105] [106]
+[107] [108]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[107]
+[109]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -2468,22 +2474,22 @@ ex-text;!
 
 Underfull \vbox (badness 1924) has occurred while \output is active []
 
- [108])
-[109] [110
+ [110])
+[111] [112
 
 ]
 Underfull \vbox (badness 6445) has occurred while \output is active []
 
- [111]
-[112] [113] [114
+ [113]
+[114] [115] [116
 
 ]
 Annexe A.
 File: images/supports_TVR_RTS.png Graphic file (type bmp)
 <images/supports_TVR_RTS.png>
-[115
+[117
 
-] [116
+] [118
 
 ]
 runsystem(makeindex GRIVEAU_MAXIME_document_maitre.idx)...executed.
@@ -2492,32 +2498,32 @@ runsystem(makeindex GRIVEAU_MAXIME_document_maitre.idx)...executed.
 (./GRIVEAU_MAXIME_document_maitre.lof
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [117
+ [119
 
 
 
 
-\indexentry{IA|hyperpage}{117}
+\indexentry{IA|hyperpage}{119}
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [118])
+ [120])
 \tf@lof=\write5
 \openout5 = `GRIVEAU_MAXIME_document_maitre.lof'.
 
 
-[119] (./GRIVEAU_MAXIME_document_maitre.toc
+[121] (./GRIVEAU_MAXIME_document_maitre.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 5.
- [120]
+ [122]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [121])
+ [123])
 \tf@toc=\write6
 \openout6 = `GRIVEAU_MAXIME_document_maitre.toc'.
 
 
-[122] (./GRIVEAU_MAXIME_document_maitre.aux)
+[124] (./GRIVEAU_MAXIME_document_maitre.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
@@ -2548,4 +2554,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  79i,13n,93p,3861b,5767s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on GRIVEAU_MAXIME_document_maitre.pdf (152 pages).
+Output written on GRIVEAU_MAXIME_document_maitre.pdf (154 pages).

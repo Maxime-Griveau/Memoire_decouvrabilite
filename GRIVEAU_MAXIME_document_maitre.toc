@@ -50,10 +50,10 @@
 \contentsline {chapter}{\numberline {10}Difficultés institutionnelles}{95}{chapter.10}%
 \contentsline {subsection}{\numberline {1.}Une nécessaire acculturation au numérique et des tabous à lever}{95}{subsection.10.0.1}%
 \contentsline {subsection}{\numberline {2.}Règlementer pour favoriser la découvrabilité}{98}{subsection.10.0.2}%
-\contentsline {subsection}{\numberline {3.}La question des droits d'auteurs}{99}{subsection.10.0.3}%
-\contentsline {chapter}{\numberline {11}Les angles morts de la notion de découvrabilité}{103}{chapter.11}%
-\contentsline {subsection}{\numberline {1.}Découvrabilité appliquée au code : l'explicabilité}{103}{subsection.11.0.1}%
-\contentsline {subsection}{\numberline {2.}L'accessibilité numérique}{105}{subsection.11.0.2}%
-\contentsline {subsection}{\numberline {3.}Et la planète dans tout ça ?}{107}{subsection.11.0.3}%
-\contentsline {chapter}{Conclusion}{111}{chapter*.11}%
-\contentsline {chapter}{\numberline {A}Supports conservés}{115}{appendix.A}%
+\contentsline {subsection}{\numberline {3.}La question des droits d'auteurs}{100}{subsection.10.0.3}%
+\contentsline {chapter}{\numberline {11}Les angles morts de la notion de découvrabilité}{105}{chapter.11}%
+\contentsline {subsection}{\numberline {1.}Découvrabilité appliquée au code : l'explicabilité}{105}{subsection.11.0.1}%
+\contentsline {subsection}{\numberline {2.}L'accessibilité numérique}{107}{subsection.11.0.2}%
+\contentsline {subsection}{\numberline {3.}Et la planète dans tout ça ?}{109}{subsection.11.0.3}%
+\contentsline {chapter}{Conclusion}{113}{chapter*.11}%
+\contentsline {chapter}{\numberline {A}Supports conservés}{117}{appendix.A}%
