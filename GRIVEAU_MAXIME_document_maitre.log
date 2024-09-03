@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.11)  3 SEP 2024 11:13
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.11)  3 SEP 2024 11:17
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1856,10 +1856,7 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [48]
+[48]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -1876,10 +1873,7 @@ Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[49]
-Underfull \vbox (badness 2261) has occurred while \output is active []
-
- [50]
+[49] [50]
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no   (U+2009) in font [lmroman12-regular]:mapping=t
@@ -1903,15 +1897,7 @@ ex-text;!
 [51]
 File: images/image11.png Graphic file (type bmp)
 <images/image11.png>
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 1102) has occurred while \output is active []
-
- [52]
-[53] [54
+ [52] [53] [54
 
 ]
 Chapitre 7.

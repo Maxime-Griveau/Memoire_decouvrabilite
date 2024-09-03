@@ -32,7 +32,7 @@
 \contentsline {chapter}{\numberline {5}Les interfaces : nouvelles architectures ?}{45}{chapter.5}%
 \contentsline {chapter}{\numberline {6}« Vers de nouveaux catalogues »}{47}{chapter.6}%
 \contentsline {subsection}{\numberline {1.}La transition bibliographique}{47}{subsection.6.0.1}%
-\contentsline {subsection}{\numberline {2.}Les portails et le moissonnage des données}{49}{subsection.6.0.2}%
+\contentsline {subsection}{\numberline {2.}Les portails et le moissonnage des données}{48}{subsection.6.0.2}%
 \contentsline {subsection}{\numberline {3.}Des catalogues aux politiques \textit {data driven}}{51}{subsection.6.0.3}%
 \contentsline {chapter}{\numberline {7}La visualisation de données en tant que nouvelle interface au service de la découvrabilité}{55}{chapter.7}%
 \contentsline {subsection}{\numberline {1.}Voir globalement : l'importance d'avoir une vue d'ensemble des collections}{55}{subsection.7.0.1}%
